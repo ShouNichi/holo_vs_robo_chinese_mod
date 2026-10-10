@@ -1,0 +1,150 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Chinese localisation for "Holo vs Robo".
+
+    The game only ships English and Japanese. Rather than rebuild the Addressables
+    bundles (which would also mean rewriting catalog.bin, a binary format that
+    would break *all* asset loading if we get it wrong), this plugin registers a
+    Chinese locale and a translated StringTable into Unity Localization at
+    runtime, and patches the game's hard-coded EnumToString name table.
+
+    The two game assemblies below are referenced from the game's own Managed
+    folder — they ship with every copy of the game and their assembly identity is
+    version-less, so the reference resolves exactly.
+  -->
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>HvrChinese</AssemblyName>
+    <RootNamespace>HvrChinese</RootNamespace>
+    <Version>1.2.0</Version>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!--
+      Reference assemblies. tools/fetch-refs.sh collects all 17 of them (15 from
+      the game's Managed folder + BepInEx and Harmony from NuGet) into lib/refs,
+      which is git-ignored. If that folder is missing we fall back to the game
+      folder and the sibling trainer mod's lib folder, so an existing checkout
+      keeps building; ResolveReferences fails loudly below when neither exists.
+    -->
+    <RefsDir Condition="'$(RefsDir)'==''">$(MSBuildThisFileDirectory)..\lib\refs</RefsDir>
+    <GameManagedDir Condition="'$(GameManagedDir)'==''">$(MSBuildThisFileDirectory)..\game\Holo vs Robo\Holo vs Robo_Data\Managed</GameManagedDir>
+    <SiblingLibDir Condition="'$(SiblingLibDir)'==''">$(MSBuildThisFileDirectory)..\..\holo_vs_robo_mod\lib</SiblingLibDir>
+  </PropertyGroup>
+
+  <!-- Pick the first location that actually has the assembly. -->
+  <PropertyGroup>
+    <GameRefDir Condition="Exists('$(RefsDir)/Assembly-CSharp.dll')">$(RefsDir)</GameRefDir>
+    <GameRefDir Condition="'$(GameRefDir)'=='' And Exists('$(GameManagedDir)/Assembly-CSharp.dll')">$(GameManagedDir)</GameRefDir>
+    <BepInExDir Condition="Exists('$(RefsDir)/BepInEx.Core.dll')">$(RefsDir)</BepInExDir>
+    <BepInExDir Condition="'$(BepInExDir)'=='' And Exists('$(SiblingLibDir)/bepinex/BepInEx.Core.dll')">$(SiblingLibDir)/bepinex</BepInExDir>
+    <HarmonyDir Condition="Exists('$(RefsDir)/0Harmony.dll')">$(RefsDir)</HarmonyDir>
+    <HarmonyDir Condition="'$(HarmonyDir)'=='' And Exists('$(SiblingLibDir)/harmony/0Harmony.dll')">$(SiblingLibDir)/harmony</HarmonyDir>
+  </PropertyGroup>
+
+  <Target Name="CheckReferences" BeforeTargets="ResolveReferences">
+    <Error Condition="'$(GameRefDir)'==''" Text="The game's assemblies were not found. Run tools/fetch-refs.sh (needs Holo vs Robo.7z or an extracted game/ folder), or pass /p:GameManagedDir=&lt;path&gt;." />
+    <Error Condition="'$(BepInExDir)'==''" Text="BepInEx reference assemblies were not found. Run tools/fetch-refs.sh, or pass /p:RefsDir=&lt;path&gt;." />
+    <Error Condition="'$(HarmonyDir)'==''" Text="0Harmony.dll was not found. Run tools/fetch-refs.sh, or pass /p:RefsDir=&lt;path&gt;." />
+  </Target>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(GameRefDir)\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.Localization">
+      <HintPath>$(GameRefDir)\Unity.Localization.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>$(GameRefDir)\Unity.ResourceManager.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- BepInEx 6 (Unity Mono) + HarmonyX, shared with the trainer mod's ref pack. -->
+    <Reference Include="BepInEx.Core">
+      <HintPath>$(BepInExDir)\BepInEx.Core.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="BepInEx.Unity.Mono">
+      <HintPath>$(BepInExDir)\BepInEx.Unity.Mono.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(HarmonyDir)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GameRefDir)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameRefDir)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(GameRefDir)\Unity.TextMeshPro.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>$(GameRefDir)\UnityEngine.AudioModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>$(GameRefDir)\UnityEngine.ImageConversionModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(GameRefDir)\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>$(GameRefDir)\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>$(GameRefDir)\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>$(GameRefDir)\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>$(GameRefDir)\Unity.Addressables.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>$(GameRefDir)\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- Hand-translated button artwork. Only the files actually placed in
+       assets/sprites/ are embedded, so an empty folder costs nothing. -->
+  <ItemGroup>
+    <EmbeddedResource Include="..\assets\sprites\*.png" LogicalName="HvrChinese.sprites.%(Filename)%(Extension)" />
+  </ItemGroup>
+
+  <!-- The font ships as a file beside the DLL: Unity can only build a font asset
+       from a path, and the file is far too large to embed. -->
+  <ItemGroup>
+    <None Include="..\assets\NotoSansSC-subset.otf" CopyToOutputDirectory="PreserveNewest"
+          Link="NotoSansSC-subset.otf" />
+  </ItemGroup>
+
+  <!-- The translations ship inside the DLL, so there is exactly one file to copy. -->
+  <ItemGroup>
+    <EmbeddedResource Include="..\translations\strings_chinese.json" LogicalName="HvrChinese.strings.zh.json" />
+    <EmbeddedResource Include="..\translations\enums_chinese.json" LogicalName="HvrChinese.enums.zh.json" />
+    <EmbeddedResource Include="..\translations\dialogue_chinese.json" LogicalName="HvrChinese.dialogue.zh.json" />
+    <EmbeddedResource Include="..\translations\almanac_chinese.json" LogicalName="HvrChinese.almanac.zh.json" />
+    <EmbeddedResource Include="..\translations\misc_chinese.json" LogicalName="HvrChinese.misc.zh.json" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,738 @@
+{
+ "locale": "zh",
+ "count": 183,
+ "strings": [
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/StartGame!!/warning/Text (TMP)",
+   "value": "未选择Holodoll"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/Text (TMP)",
+   "value": "选择你的Holodoll！"
+  },
+  {
+   "key": "Main menu/Main Manager",
+   "value": "剧情通关！！"
+  },
+  {
+   "key": "Payload1/HUD Canvas/Tutorial Text (1)/Tutorial Text (1)",
+   "value": "保护货物运输车，直到它抵达终点！！"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/MenuButton/Text (TMP)",
+   "value": "菜单\n"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuConfirm/BackButton/Text (TMP)",
+   "value": "返回"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/Volume Controls/VolumeControl Music/Text (TMP)",
+   "value": "音乐音量"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/Volume Controls/VolumeControl SFX/Text (TMP)",
+   "value": "音效音量"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/Volume Controls/VolumeControl Voice/Text (TMP)",
+   "value": "语音音量"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryButton/Text (TMP)",
+   "value": "重玩本关"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryConfirm/BackButton/Text (TMP)",
+   "value": "返回"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryConfirm/RetryButton/Text (TMP)",
+   "value": "重试"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuConfirm/ExitButton/Text (TMP)",
+   "value": "退出"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryConfirm/ConfirmMenuFrame/Text (TMP)",
+   "value": "要重玩本关吗？"
+  },
+  {
+   "key": "Dialogue/Canvas (Environment)/Dialogue/Panel_Dialogue Right/click to continue",
+   "value": "点击继续"
+  },
+  {
+   "key": "Dialogue/Canvas (Environment)/Dialogue/Panel_Dialogue/click to continue",
+   "value": "点击继续"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/Show Battlefield Button/Text (TMP)",
+   "value": "显示战场"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/Hide Battlefield Button/Text (TMP)",
+   "value": "返回选择界面"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/GameOverScreen/GameOverPanel/RetryButton/Text (TMP)",
+   "value": "再试一次"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/GameOverScreen/GameOverPanel/ExitButton/Text (TMP)",
+   "value": "返回"
+  },
+  {
+   "key": "Main menu/Canvas/CreditsWindow/Text (TMP) (1)",
+   "value": "美术/程序/剧情\n\tPompmaker1\n\n日文翻译\n\tKumayou\n\tROKA\n\n其他美术\n\tいらすとや"
+  },
+  {
+   "key": "Main menu/Canvas/CreditsWindow/Text (TMP)",
+   "value": "音乐\n\tTian Nya\n\tMouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker\n\n语音\n\tHololive\n\n语音剪辑协助\n\tROKA"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/StartGame!!/Text (TMP)",
+   "value": "开始"
+  },
+  {
+   "key": "Shop/Shop Canvas/Dialogue/Panel_Dialogue/click to continue",
+   "value": "点击继续"
+  },
+  {
+   "key": "Shop/Shop Canvas/Buy this thing fr?/Yes/Text (TMP)",
+   "value": "是！"
+  },
+  {
+   "key": "Shop/Shop Canvas/Buy this thing fr?/No/Text (TMP)",
+   "value": "否"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Subar/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/mumei/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Gigi/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Iofi/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Sana/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Raora/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/bae/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Item Base/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Level Select/Canvas/Text (TMP)",
+   "value": "点击并拖动以移动地图"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /Tital",
+   "value": "马拉松模式"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu ",
+   "value": "当前关卡："
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /AddHolodolls/Text (TMP)",
+   "value": "补充Holodoll"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /StartOverButton/Text (TMP)",
+   "value": "从头开始"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /Text (TMP)",
+   "value": "剩余Holodoll："
+  },
+  {
+   "key": "TutorialMarathon/HUD Canvas/HUD/4/Tutorial Text (1)",
+   "value": "你能在Holodoll不耗尽的情况下打通整个剧情吗？？"
+  },
+  {
+   "key": "TutorialMarathon/HUD Canvas/HUD/BuildingPanel/2/Tutorial Text 1",
+   "value": "每个关卡中可放置的每种Holodoll数量都有限制……"
+  },
+  {
+   "key": "TutorialMarathon/HUD Canvas/HUD/1/Tutorial Text (1)",
+   "value": "欢迎来到马拉松模式！在这个挑战中，每一个Holodoll都很重要！"
+  },
+  {
+   "key": "UnlockTower/Canvas/Box/Particle System/TOWER UNLOCKED!!!!",
+   "value": "发现Holodoll"
+  },
+  {
+   "key": "UnlockTower/Canvas/Correction/Text (TMP)",
+   "value": "查看图鉴"
+  },
+  {
+   "key": "UnlockTower/Canvas/Continue/Text (TMP)",
+   "value": "下一关"
+  },
+  {
+   "key": "UnlockTower/Canvas/Quit/Text (TMP) (1)",
+   "value": "主\n菜单"
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Label (2)",
+   "value": "攻击速度："
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Label (3)",
+   "value": "伤害："
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Label (4)",
+   "value": "放置位置："
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Label (5)",
+   "value": "可攻击区域："
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Label",
+   "value": "坚韧度："
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Label (1)",
+   "value": "冷却\n"
+  },
+  {
+   "key": "TowerShowcase/Canvas/Almanac Display/Name",
+   "value": "Bijou"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /Start Over?/Bewton/Text (TMP)",
+   "value": "从头开始"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /Start Over?/Bewton (1)/Text (TMP)",
+   "value": "返回"
+  },
+  {
+   "key": "UnlockTowerShop/Canvas/Continue/Text (TMP)",
+   "value": "返回商店"
+  },
+  {
+   "key": "UnlockTowerShop/Canvas/Correction/Text (TMP)",
+   "value": "查看图鉴"
+  },
+  {
+   "key": "UnlockTowerShop/Canvas/Quit/Text (TMP) (1)",
+   "value": "主\n菜单"
+  },
+  {
+   "key": "UnlockTowerShop/Canvas/Box/Particle System/TOWER UNLOCKED!!!!",
+   "value": "发现Holodoll"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/Dialogue/Panel_Dialogue Right/NPCSpeech",
+   "value": "\r..."
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/Dialogue/Panel_Dialogue/NPCSpeech",
+   "value": "我失去了童贞……你的能给我吗？"
+  },
+  {
+   "key": "Main menu/Canvas/CreditsWindow/Text (TMP) (1) 1",
+   "value": "美术/程序\n\tPompmaker1\n\n日文翻译\n\tROKA\n\tKumayou\n\tIzumi\n\n其他美术\n\tいらすとや"
+  },
+  {
+   "key": "Main menu/Canvas/CreditsWindow/Text (TMP) 1",
+   "value": "音乐\n\ttian nya\n\tmouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker1\n\n语音\n\tHololive成员\n\n语音剪辑协助\n\tROKA"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Tabs/MinigamesTab/Text (TMP)",
+   "value": "小游戏"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Tabs/SurvivalTab/Text",
+   "value": "生存\n"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Tabs/CutscenesTab/Text (TMP)",
+   "value": "过场动画"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Tabs/MusicTab/Text (TMP)",
+   "value": "音乐室"
+  },
+  {
+   "key": "Shop/Shop Canvas/Buy this thing fr?/fr fr?",
+   "value": "真的要买这个吗？"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/DollhouseDoll",
+   "value": "玩偶屋玩偶"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (1)",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (1) 1",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (5)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (2)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (7)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (8)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (6)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (3)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (4)",
+   "value": "没有任何作用"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (5) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (2) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (7) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (8) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (6) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (3) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (4) 1",
+   "value": "Gigi Murin 亚克力立牌"
+  },
+  {
+   "key": "Dollhouse/Canvas/BackButt/Text (TMP)",
+   "value": "退出"
+  },
+  {
+   "key": "Dollhouse/Canvas/Change Room Menu/Text (TMP)",
+   "value": "更换房间"
+  },
+  {
+   "key": "HoloRaceTests/RaceManager",
+   "value": "下注吧！"
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 1",
+   "value": "奖金："
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 2",
+   "value": " 获胜！！"
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 3",
+   "value": "获胜！下一场比赛将在"
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 4",
+   "value": " 获胜！你赢得了"
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 5",
+   "value": " 获胜！下次加油……"
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 6",
+   "value": "下一场比赛："
+  },
+  {
+   "key": "HoloRaceTests/RaceManager 7",
+   "value": "比赛开始："
+  },
+  {
+   "key": "HoloRaceTests/Canvas/Pregame UI/Bet Menu/Bet Encourager",
+   "value": "下注吧！"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/DollhouseDoll 1",
+   "value": "为你的玩偶屋解锁一个新的Holodoll！"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuButton/Text (TMP)",
+   "value": "退出"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/ResumeButton/Text (TMP)",
+   "value": "返回游戏"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuConfirm/ConfirmMenuFrame/Text (TMP)",
+   "value": "返回关卡选择？\n关卡内的进度不会被保存！"
+  },
+  {
+   "key": "Cutscene/Canvas/Text (TMP) (1)",
+   "value": "点击继续，ESC跳过"
+  },
+  {
+   "key": "Dudes/Canvas/Reset save?/Text (TMP)",
+   "value": "要删除存档文件吗？"
+  },
+  {
+   "key": "Main menu/Canvas/SettingsWindow/Volume Controls/VolumeControl Music/Text (TMP)",
+   "value": "音乐音量"
+  },
+  {
+   "key": "Main menu/Canvas/SettingsWindow/Volume Controls/VolumeControl SFX/Text (TMP)",
+   "value": "音效音量"
+  },
+  {
+   "key": "Main menu/Canvas/SettingsWindow/Volume Controls/VolumeControl Voice/Text (TMP)",
+   "value": "语音音量"
+  },
+  {
+   "key": "Main menu/Canvas/SettingsWindow/Back/Text (TMP)",
+   "value": "返回"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/GameOverScreen/GameOverPanel/Game Over Text",
+   "value": "机器人突破了防线！！！"
+  },
+  {
+   "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/StartGame!!/warning 2/Select at least 4 holodolls",
+   "value": "至少选择4个Holodoll"
+  },
+  {
+   "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (1)/Tutorial Text (1)",
+   "value": "点击格子放置选中的Holodoll！\n（右键取消）"
+  },
+  {
+   "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (5)/Tutorial Text (2)",
+   "value": "锤子可以移除已放置的Holodoll！按X或点击它来拿起锤子！"
+  },
+  {
+   "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (4)/Tutorial Text (4)",
+   "value": "把鼠标移到掉落的CHEER上即可收集！"
+  },
+  {
+   "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (3)/Tutorial Text (3)",
+   "value": "别让机器人进入大楼！加油！"
+  },
+  {
+   "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (2)/Tutorial Text (2)",
+   "value": "放置Holodoll需要CHEER！这个计量表显示你拥有多少CHEER！"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 1/label",
+   "value": "机器人来袭！！"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 2/label",
+   "value": "无暇休息"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 3/label",
+   "value": "跳岛大作战"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 4/label",
+   "value": "扭转战局"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 5/label",
+   "value": "终章\n"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/End Credits/label",
+   "value": "- 片尾曲 -\nCheer！！！"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton/Title",
+   "value": "常夜Repaint"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (1)/Title",
+   "value": "至上主义广告卡车"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (2)/Title",
+   "value": "BIBBIDIBA"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (3)/Originale",
+   "value": "大神澪"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (2)/Originale",
+   "value": "星街彗星"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton/Originale",
+   "value": "秘密结社holoX"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (4)/Originale",
+   "value": "萝卜子"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (5)/Originale",
+   "value": "萝卜子"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (5)/Title",
+   "value": "Rirubi"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (6)/Originale",
+   "value": "Holo鸟"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (14)/Title",
+   "value": "Shallys"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (14)/Originale",
+   "value": "亚奇·罗森塔尔"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (7)/Originale",
+   "value": "库雷伊吉·奥莉 ft. RUSTAGE"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (11)/Originale",
+   "value": "库雷伊吉·奥莉"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (13)/Originale",
+   "value": "库雷伊吉·奥莉"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (15)/Originale",
+   "value": "白上吹雪"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (12)/Originale",
+   "value": "轰一"
+  },
+  {
+   "key": "Tutorial/HUD Canvas/HUD/Tutorial Text 1/Tutorial Text 1",
+   "value": "点击Holodoll或按数字键来选择它！"
+  },
+  {
+   "key": "Main menu/Canvas/SettingsWindow/Manage Save File/Text (TMP)",
+   "value": "管理存档文件"
+  },
+  {
+   "key": "Main menu/Canvas/CreditsWindow/Back/Text (TMP)",
+   "value": "返回"
+  },
+  {
+   "key": "Marathon Interlude/Canvas/Titular",
+   "value": "马拉松进度"
+  },
+  {
+   "key": "Marathon Interlude/Canvas/Marathon Report/Completed Label",
+   "value": "已完成"
+  },
+  {
+   "key": "Marathon Interlude/Canvas/Marathon Report/LossesTitle",
+   "value": "失去的Holodoll"
+  },
+  {
+   "key": "Marathon Interlude/Canvas/Continue/Text (TMP)",
+   "value": "下一关"
+  },
+  {
+   "key": "Marathon Interlude/Canvas/Exit/Text (TMP) (1)",
+   "value": "返回"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/island/label",
+   "value": "生存：Holo岛"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/holofes/label",
+   "value": "生存：HoloFes"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/blimp/label",
+   "value": "生存：飞艇"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/endless/label",
+   "value": "生存：无尽"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Speedrun/label",
+   "value": "猛攻"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Chacha/label",
+   "value": "Holodoll洗牌"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Chacha 2/label",
+   "value": "Holodoll洗牌改"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Payload/label",
+   "value": "愤怒死亡之路"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Instant Solution/label",
+   "value": "瞬间破坏"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/10 lanes/label",
+   "value": "十车道危机"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Four-Ten/label",
+   "value": "四·十"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Airborne Assault/label",
+   "value": "空袭"
+  },
+  {
+   "key": "Marathon/Canvas/Marathon Menu /Start Over?/Image/Text (TMP)",
+   "value": "要开始新的马拉松吗？\n你将失去当前马拉松的所有进度，你的Holodoll也会重置为初始数量。\n"
+  },
+  {
+   "key": "Shop/Shop Canvas/GameObject/Remove Standees/Text (TMP)",
+   "value": "隐藏立牌"
+  },
+  {
+   "key": "Shop/Shop Canvas/GameObject/Perma Remove Standees/Text (TMP)",
+   "value": "永久移除立牌"
+  },
+  {
+   "key": "Level Select/Canvas/MarathonButton/Text (TMP)",
+   "value": "马拉松模式"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (5)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (7)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (6)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (2)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (8)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (3)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (1)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (4)/SOLD",
+   "value": "已售罄"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Text (TMP)",
+   "value": "曲目\n"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Text (TMP) (2)",
+   "value": "原作者"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Text (TMP) (1)",
+   "value": "编曲"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 1",
+   "value": "为你的玩偶屋解锁卧室！"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 3",
+   "value": "为你的玩偶屋解锁游戏室！"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 2",
+   "value": "为你的玩偶屋解锁卡拉OK室！"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 1 1",
+   "value": "玩偶屋卧室"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 2 1",
+   "value": "玩偶屋卡拉OK室"
+  },
+  {
+   "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 3 1",
+   "value": "玩偶屋游戏室"
+  },
+  {
+   "key": "Main menu/Achievement Canvas/We can achieve/titall",
+   "value": "获得成就！"
+  },
+  {
+   "key": "Main menu/Canvas/AchievementWindow/Background/Text (TMP)",
+   "value": "成就"
+  },
+  {
+   "key": "Extras/Canvas/Menu/Tabs/AchievementsTab/Text (TMP)",
+   "value": "成就"
+  },
+  {
+   "key": "Main menu/Canvas/FirstTime/Disclaimer",
+   "value": "免责声明\r\n\r\n本游戏中对hololive成员的描绘，以及选择将哪些hololive成员收录进游戏，均无任何恶意。\r\n\r\n本游戏的开发过程中未使用任何生成式AI。"
+  },
+  {
+   "key": "Dollhouse/Canvas/Text (TMP)",
+   "value": "欢迎来到玩偶屋！"
+  }
+ ]
+}

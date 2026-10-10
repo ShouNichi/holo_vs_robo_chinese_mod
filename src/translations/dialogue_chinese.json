@@ -1,0 +1,814 @@
+{
+ "locale": "zh",
+ "count": 202,
+ "strings": [
+  {
+   "key": "C-C-CRAZY!!! Kureiji Ollie here!!!!",
+   "value": "疯-疯-疯！！！克蕾西·奥莉登场！！！！"
+  },
+  {
+   "key": "Let's get ready to- Wait, who are you??",
+   "value": "准备开——等等，你是谁？？"
+  },
+  {
+   "key": "Part time warehouse organizer? Really? I thought you were gonna be some big shot higherup... ",
+   "value": "兼职仓库整理员？真的吗？我还以为你会是什么大人物呢……"
+  },
+  {
+   "key": "Well, that doesn't matter now! Holofes is only two weeks away, and we're under attack!! ",
+   "value": "不过现在那些都不重要了！距离 HoloFes 只剩两周，而我们正遭受攻击！！"
+  },
+  {
+   "key": "A bunch of weird robots that look like hololive members are walking in here and breaking all our stuff!!",
+   "value": "一群长得像 hololive 成员的奇怪机器人闯了进来，把我们的东西全都砸坏了！！"
+  },
+  {
+   "key": "Luckily, you've got a big pile of holodoll™ hololive figurines with you. ",
+   "value": "幸运的是，你身边有一大堆 holodoll™ hololive 手办。"
+  },
+  {
+   "key": "And with the energy of the fans' CHEER, they'll come to life to protect us!! ",
+   "value": "只要有了粉丝们 CHEER 的能量，它们就会活过来保护我们！！"
+  },
+  {
+   "key": "It's up to you to place them on the field to stop the robots from getting through! ",
+   "value": "就靠你把它们放到场上，阻止机器人突破了！"
+  },
+  {
+   "key": "You can do it, I believe in you! Good luck!!",
+   "value": "你可以的，我相信你！加油！！"
+  },
+  {
+   "key": "THEY'RE IN THE CONCERT HALL!! ",
+   "value": "它们冲进音乐厅了！！"
+  },
+  {
+   "key": "Gosh, that sure is a lot of them...",
+   "value": "天哪，数量真多啊……"
+  },
+  {
+   "key": "There's at least... six!",
+   "value": "至少也有……六只！"
+  },
+  {
+   "key": "Luckily, this concert hall has loads of CHEER energy leftover from previous holofes!",
+   "value": "幸运的是，这座音乐厅还残留着往届 HoloFes 的大量 CHEER 能量！"
+  },
+  {
+   "key": "Which means you won't need to spend CHEER to place holodolls! ",
+   "value": "也就是说，你放置 holodoll 不需要消耗 CHEER！"
+  },
+  {
+   "key": "We'll be sending them to you as fast as we can, so let's show them who's boss!! ",
+   "value": "我们会尽快把它们送过来，让他们瞧瞧我们的厉害！！"
+  },
+  {
+   "key": "Wow, you found a new type of holodoll!! And it's ME!!!!!!!! ",
+   "value": "哇，你发现了新型 holodoll！！而且是我！！！！！！！"
+  },
+  {
+   "key": "It seems as though somehow, each holodoll behaves in its own unique way, based on the original hololive member.",
+   "value": "看来每一个 holodoll 都会以自己独特的方式行动，这取决于它对应的 hololive 成员。"
+  },
+  {
+   "key": "My holodoll for example is always cheering for hololive, and it even pops out some CHEER energy once in a while!",
+   "value": "比如我的 holodoll 就一直在为 hololive 应援，偶尔还会冒出一些 CHEER 能量！"
+  },
+  {
+   "key": "Does this mean I've been simping too much and should cut back a bit? Uh, maybe..",
+   "value": "难道是因为我沉迷得太过火，该收敛一点了吗？呃，也许吧……"
+  },
+  {
+   "key": "But it also means it'll give you more CHEER energy so you can place even more holodolls! ",
+   "value": "不过这也意味着它会给你更多 CHEER 能量，让你能放置更多 holodoll！"
+  },
+  {
+   "key": "Try to place as many Ollies as you can so you can afford a strong defense!",
+   "value": "尽量多放几个奥莉，这样你才能撑起一道坚固的防线！"
+  },
+  {
+   "key": "We're all cheering for you too, so do your best!",
+   "value": "我们也会为你应援的，加油！"
+  },
+  {
+   "key": "Hey, the holodolls in this next batch are still in their shipping packages!",
+   "value": "嘿，下一批 holodoll 还装在快递箱里呢！"
+  },
+  {
+   "key": "We'd better unpack them fast, or we won't be able to tell what's in each box.",
+   "value": "我们最好快点拆开，不然根本看不出来每个箱子里装的是什么。"
+  },
+  {
+   "key": "Uh oh, the robots are already here! No time to unpack the boxes, we gotta go!",
+   "value": "糟了，机器人已经来了！没时间拆箱了，我们走！"
+  },
+  {
+   "key": "I wonder where all these robots came from... ",
+   "value": "我在想这些机器人到底是从哪来的……"
+  },
+  {
+   "key": "Who made them, and why do they look like hololive members? ",
+   "value": "是谁制造的它们，又为什么长得像 hololive 成员？"
+  },
+  {
+   "key": "And most importantly, how did they get this far into the building!? We gotta fight them off, quick! ",
+   "value": "最重要的是，它们是怎么深入到大楼这么里面的！？我们得赶紧把它们打退！"
+  },
+  {
+   "key": "Watch out for that one that looks like Iroha! The first hit from its katana packs a punch!",
+   "value": "小心那个像伊罗哈的！它第一刀砍下来威力十足！"
+  },
+  {
+   "key": "(Seriously, why do they look like hololive members?)",
+   "value": "（说真的，它们为什么长得像 hololive 成员？）"
+  },
+  {
+   "key": "This place sure brings back memories!",
+   "value": "这地方真是令人怀念啊！"
+  },
+  {
+   "key": "Usaken built it for one of hololive's summer festivals!!",
+   "value": "兔KEN 当初是为 hololive 的夏日祭典搭建了这里！！"
+  },
+  {
+   "key": "Of course, last time I was here there weren't robots running around the place...",
+   "value": "当然，上次我来这里的时候，可没有机器人在到处乱跑……"
+  },
+  {
+   "key": "Time to get to work!",
+   "value": "该开始干活了！"
+  },
+  {
+   "key": "This is the last of the robots here!",
+   "value": "这就是这里最后一批机器人了！"
+  },
+  {
+   "key": "They've put up quite a defense....",
+   "value": "它们的防御倒是挺严密的……"
+  },
+  {
+   "key": "But it's nothing you can't handle!!",
+   "value": "但这难不倒你！！"
+  },
+  {
+   "key": "We're all cheering for you, so it's time to go all out!!",
+   "value": "我们都会为你应援，是时候全力以赴了！！"
+  },
+  {
+   "key": "Hey, what are those?",
+   "value": "嘿，那些是什么？"
+  },
+  {
+   "key": "It looks like the robots have built some festival stalls of their own!",
+   "value": "看来机器人也搭起了自己的祭典摊位！"
+  },
+  {
+   "key": "But I think the only prizes we'll win from them are bullets to the face...",
+   "value": "不过我觉得从它们那儿赢来的奖品，只有迎面而来的子弹……"
+  },
+  {
+   "key": "You're not gonna lose this shooting contest, are you?",
+   "value": "这场射击比拼你不会输吧？"
+  },
+  {
+   "key": "Smash those stalls to bits!",
+   "value": "把那些摊位砸个稀巴烂！"
+  },
+  {
+   "key": "I love the way this place looks at night!",
+   "value": "我喜欢这地方的夜景！"
+  },
+  {
+   "key": "The cool night being lit up by the warm lanterns and the glowing lava...",
+   "value": "凉爽的夜晚被温暖的灯笼和发光的熔岩照亮……"
+  },
+  {
+   "key": "Wait, lava?",
+   "value": "等等，熔岩？"
+  },
+  {
+   "key": "That's from the robots!!",
+   "value": "那是机器人搞出来的！！"
+  },
+  {
+   "key": "Better put out those buckets with something cold!!",
+   "value": "最好用冰冷的东西把那些桶灭掉！！"
+  },
+  {
+   "key": "Whoa, what's this? They've covered the floor in conveyor belts!",
+   "value": "哇，这是什么？他们在地板上铺满了传送带！"
+  },
+  {
+   "key": "Looking at them kind of makes me dizzy, the way they go round and round...",
+   "value": "看着它们一圈圈地转，我都有点晕了……"
+  },
+  {
+   "key": "Round and round and round....",
+   "value": "一圈又一圈……"
+  },
+  {
+   "key": "IT'S THE BEAAAACH!!!",
+   "value": "是海——滩——！！！"
+  },
+  {
+   "key": "Welcome to Holo Island!!! Hololive's own beach resort!! ",
+   "value": "欢迎来到 Holo Island！！！hololive 自家的海滨度假村！！"
+  },
+  {
+   "key": "We built this for 5th fes with loads of cool stuff! There was even a blimp! ",
+   "value": "我们为 5th fes 建了这里，有超多好玩的东西！甚至还有一艘飞艇！"
+  },
+  {
+   "key": "Of course, as much as I wanna relax in my cute new swimsuit...",
+   "value": "当然，虽然我很想穿着可爱的新泳装放松一下……"
+  },
+  {
+   "key": "We're not here to play! We gotta beat up some robots!!",
+   "value": "但我们不是来玩的！我们得痛揍一顿机器人！！"
+  },
+  {
+   "key": "There's no time to waste! Let's go!",
+   "value": "没时间浪费了！出发！"
+  },
+  {
+   "key": "Why did the robots have to attack at night...?",
+   "value": "机器人为什么偏偏要在夜里袭击……？"
+  },
+  {
+   "key": "I feel so cold in this swimsuit.",
+   "value": "穿泳装感觉好冷。"
+  },
+  {
+   "key": "Huh? Change out of it? Don't be ridiculous, we're on the beach.",
+   "value": "咦？换掉？别开玩笑了，我们可是在海滩上。"
+  },
+  {
+   "key": "Anyways, they sure brought a lot of robots this time.",
+   "value": "话说回来，它们这次带来的机器人可真多。"
+  },
+  {
+   "key": "I wonder what's the special occasion?",
+   "value": "我在想是什么特别的日子？"
+  },
+  {
+   "key": "Wait, is that...?!",
+   "value": "等等，那是……？！"
+  },
+  {
+   "key": "...",
+   "value": "……"
+  },
+  {
+   "key": "... .... ......!!!",
+   "value": "…… …… ……！！！"
+  },
+  {
+   "key": "It... it's the real Roboco-senpai!! She's the one behind the robots??",
+   "value": "是……是真的 Roboco 前辈！！她就是机器人背后的黑手？？"
+  },
+  {
+   "key": "No.... I think she's been hacked!!",
+   "value": "不对……我想她是被黑客入侵了！！"
+  },
+  {
+   "key": "Maybe we can fix her by giving her a good smack!",
+   "value": "也许我们用力拍她一下就能修好她！"
+  },
+  {
+   "key": "Like a laptop!",
+   "value": "就像修笔记本电脑那样！"
+  },
+  {
+   "key": "Watch out for that seawater!! Most holodolls can't stand in it! ",
+   "value": "小心那些海水！！大多数 holodoll 可受不了它！"
+  },
+  {
+   "key": "Why? Manufacturer's instructions.",
+   "value": "为什么？制造商的说明书上这么写的。"
+  },
+  {
+   "key": "The company is working on a solution, but it's not ready yet... ",
+   "value": "公司正在研究解决方案，但还没准备好……"
+  },
+  {
+   "key": "Of course, those darn robots are all waterproofed and can walk through it no problem. ",
+   "value": "当然，那些可恶的机器人全都做了防水，可以大摇大摆地从水里走过去。"
+  },
+  {
+   "key": "Luckily, there are a few holodolls who can stand in water, and there are even some who fly over it! ",
+   "value": "幸运的是，有一些 holodoll 可以站在水里，甚至还有一些能直接从水上飞过去！"
+  },
+  {
+   "key": "Check your Collection to see which holodolls are amphibious or airborne! ",
+   "value": "去收藏室看看哪些 holodoll 是两栖或者空中单位的吧！"
+  },
+  {
+   "key": "Good news!",
+   "value": "好消息！"
+  },
+  {
+   "key": "The company has sent over some Floaties!",
+   "value": "公司送来了一些浮具！"
+  },
+  {
+   "key": "These floating figure stands will let you place a holodoll on top of them, on the water!",
+   "value": "这些浮动手办架可以让你把 holodoll 放在水面上！"
+  },
+  {
+   "key": "Bring them along if you want to expand your options!",
+   "value": "想扩充战术选择的话，就带上它们吧！"
+  },
+  {
+   "key": "Hmm? The robots this time seem a little different...",
+   "value": "嗯？这次的机器人好像有点不一样……"
+  },
+  {
+   "key": "They're so tiny... it almost feels like I could step on them...",
+   "value": "它们太小了……我好像一脚就能踩扁……"
+  },
+  {
+   "key": "I would try it, but they're moving so fast!",
+   "value": "我倒是想试试，可它们跑得太快了！"
+  },
+  {
+   "key": "Check it out!! We got the blimp flying again!!",
+   "value": "快看！！飞艇又飞起来了！！"
+  },
+  {
+   "key": "And thanks to Roboco-senpai, we know where the robots are being made!",
+   "value": "多亏了 Roboco 前辈，我们现在知道机器人是在哪里制造的了！"
+  },
+  {
+   "key": "We're gonna fly right over and blow them all up!",
+   "value": "我们要直接飞过去，把它们全部炸上天！"
+  },
+  {
+   "key": "Of course, they're not gonna make it easy for us...",
+   "value": "当然，它们不会让我们这么轻松……"
+  },
+  {
+   "key": "They've caught up to us in a plane and are trying to board us!",
+   "value": "它们开着飞机追了上来，还想登上我们的飞艇！"
+  },
+  {
+   "key": "Don't let them get into the blimp!",
+   "value": "别让它们进入飞艇！"
+  },
+  {
+   "key": "This place... it's the hololive office??",
+   "value": "这个地方……是 hololive 办公室？？"
+  },
+  {
+   "key": "No... it's a fake. The windows aren't broken.",
+   "value": "不……是假的。窗户都没有碎。"
+  },
+  {
+   "key": "Why does the robot HQ look like the hololive office?",
+   "value": "为什么机器人总部会长得跟 hololive 办公室一样？"
+  },
+  {
+   "key": "Come to think of it, why do the robots look like hololive members to begin with?",
+   "value": "说起来，机器人到底为什么长得像 hololive 成员？"
+  },
+  {
+   "key": "Whatever's making these robots is right through that doorway!",
+   "value": "不管制造这些机器人的是什么，它就在那扇门后面！"
+  },
+  {
+   "key": "We're almost there! Give it everything you've got!! ",
+   "value": "我们就要到了！使出你的全力！！"
+  },
+  {
+   "key": "Hey, those robots are flying!",
+   "value": "嘿，那些机器人在飞！"
+  },
+  {
+   "key": "It looks like most of your holodolls aren't able to aim up to hit them.",
+   "value": "看来你的大多数 holodoll 没办法向上瞄准它们。"
+  },
+  {
+   "key": "Make sure you bring some that can!",
+   "value": "一定要带几个能对空的！"
+  },
+  {
+   "key": "It's really cramped on this blimp, isn't it?",
+   "value": "这飞艇里真挤啊，不是吗？"
+  },
+  {
+   "key": "I asked the company to find a way to put holodolls in the air over those cables.",
+   "value": "我拜托公司想办法把 holodoll 放到那些缆线上方的空中。"
+  },
+  {
+   "key": "And it turns out they were gonna give us jetpacks!",
+   "value": "结果他们说打算给我们配喷气背包！"
+  },
+  {
+   "key": "But some blue animals broke into the building and stole all the jetpacks first.",
+   "value": "但一群蓝色动物闯进大楼，把喷气背包全偷走了。"
+  },
+  {
+   "key": "One of the Justice members went to chase them down, but she ended up breaking all the jetpacks as well.",
+   "value": "Justice 的一位成员去追它们，结果把喷气背包全弄坏了。"
+  },
+  {
+   "key": "Well, there are some holodolls who can fly in the air by themselves!",
+   "value": "不过，有一些 holodoll 自己就能飞在天上！"
+  },
+  {
+   "key": "Check your Collection to see which holodolls are Airborne!",
+   "value": "去收藏室看看哪些 holodoll 是空中单位吧！"
+  },
+  {
+   "key": "AAHHH!!! THE SKY'S GONE DARK!!! THE WORLD IS ENDING!!!",
+   "value": "啊啊啊！！！天黑了！！！世界末日来了！！！"
+  },
+  {
+   "key": "IT CAN'T END LIKE THIS, I HAVEN'T HUGGED EVERYONE IN HOLOLIVE YET!! THERE'S STILL SO MUCH MERCH TO BUY!!",
+   "value": "不能就这样结束！！我还没有抱过 hololive 的每一个人！！还有那么多周边没买！！"
+  },
+  {
+   "key": "Oh, wait, we're just flying through a thundercloud. Phew!",
+   "value": "哦，等等，我们只是飞过了一片雷雨云。呼！"
+  },
+  {
+   "key": "We're almost at the source of the robots!",
+   "value": "我们快到机器人的老巢了！"
+  },
+  {
+   "key": "Looks like it's that building over there, behind the mountains.",
+   "value": "看起来就是山那边的那栋大楼。"
+  },
+  {
+   "key": "Once we're there, we'll finally get to beat up whoever's behind all this!",
+   "value": "等我们到了那儿，终于能狠狠教训幕后黑手一顿了！"
+  },
+  {
+   "key": "But of course, the robots are trying to bring us down as hard as they can!",
+   "value": "不过当然了，机器人正竭尽全力想把我们打下来！"
+  },
+  {
+   "key": "It seems like they're mostly attacking on the two outermost lanes this time!",
+   "value": "这次它们好像主要集中在最外侧的两条线进攻！"
+  },
+  {
+   "key": "Hang in there! Just a little bit more to go!",
+   "value": "坚持住！就快到了！"
+  },
+  {
+   "key": "So you're the one behind the robot attacks!!!",
+   "value": "原来你就是机器人袭击的幕后黑手！！！"
+  },
+  {
+   "key": "Wait a minute, you're- !!! ",
+   "value": "等等，你是——！！！"
+  },
+  {
+   "key": "I AM MECHA YAGOO!!",
+   "value": "我是机械 YAGOO！！"
+  },
+  {
+   "key": "I WAS DESIGNED TO REPLACE THE REAL YAGOO IN AN EMERGENCY",
+   "value": "我被设计出来，是为了在紧急时刻替代真正的 YAGOO"
+  },
+  {
+   "key": "BUT NO EMERGENCY HAS HAPPENED!!",
+   "value": "但是根本就没有发生过紧急状况！！"
+  },
+  {
+   "key": "I WAS LEFT IN STORAGE FOR YEARS!!",
+   "value": "我被丢在仓库里好多年！！"
+  },
+  {
+   "key": "Is that why you've been attacking us? Just because you're bored?!",
+   "value": "这就是你袭击我们的原因？就因为太无聊了？！"
+  },
+  {
+   "key": "Have you tried watching hololive streams to pass the time?",
+   "value": "你有没有试过看 hololive 直播来打发时间？"
+  },
+  {
+   "key": "OF COURSE I DID. I WATCHED YOU EVERY DAY.",
+   "value": "当然看过。我每天都看着你们。"
+  },
+  {
+   "key": "I SAW HOW WONDERFUL HOLOLIVE WAS...",
+   "value": "我看到 hololive 有多么精彩……"
+  },
+  {
+   "key": "BUT I KNEW HOW MUCH BETTER IT COULD BE IF I WAS IN CHARGE!",
+   "value": "但我知道，如果由我来主导，它会比现在好得多！"
+  },
+  {
+   "key": "SO I MADE MY OWN HOLOLIVE!! ",
+   "value": "所以我造出了属于自己的 hololive！！"
+  },
+  {
+   "key": "You're trying to replace us?!",
+   "value": "你想取代我们？！"
+  },
+  {
+   "key": "Your robots are just cheap knockoffs!! Their thighs don't even jiggle!!",
+   "value": "你的机器人不过是廉价的仿制品！！它们的大腿甚至不会晃！！"
+  },
+  {
+   "key": "Their chests don't bounce in front of your eyes! Their stiff dancing doesn't jdon your soul!!",
+   "value": "它们的胸部不会在你眼前晃动！它们僵硬的舞蹈无法震撼你的灵魂！！"
+  },
+  {
+   "key": "Those robots that don't even have the sweet smell of idols will never take our place!",
+   "value": "那些连偶像的甜美气息都没有的机器人，永远别想取代我们！"
+  },
+  {
+   "key": "I HAVE NO IDEA WHAT YOU JUST SAID.",
+   "value": "我完全听不懂你在说什么。"
+  },
+  {
+   "key": "AND I DON'T CARE!!",
+   "value": "而且我也不在乎！！"
+  },
+  {
+   "key": "MY ROBOLIVE WILL REPLACE HOLOLIVE!",
+   "value": "我的机器 live 将会取代 hololive！"
+  },
+  {
+   "key": "AND YOU CANNOT STOP ME!!",
+   "value": "而你们无法阻止我！！"
+  },
+  {
+   "key": "In the year 20XX, two strange events happened to hololive at once...",
+   "value": "在 20XX 年，两件怪事同时降临到了 hololive……"
+  },
+  {
+   "key": "Hololive figurines absorbed the energy of fans' CHEER...",
+   "value": "hololive 手办吸收了粉丝们的 CHEER 能量……"
+  },
+  {
+   "key": "And came to life!!",
+   "value": "然后活了过来！！"
+  },
+  {
+   "key": "At the same time...",
+   "value": "与此同时……"
+  },
+  {
+   "key": "ROBOTS STARTED ATTACKING HOLOFES!!!!",
+   "value": "机器人开始袭击 HOLOFES！！！！"
+  },
+  {
+   "key": "The attack on holofes was successfully stopped!!",
+   "value": "针对 holofes 的袭击被成功阻止了！！"
+  },
+  {
+   "key": "But before they can rest, our heroes get a signal... ",
+   "value": "但英雄们还没来得及休息，就收到了信号……"
+  },
+  {
+   "key": "And must leave to stop another attack!",
+   "value": "他们必须再次出发，阻止新的袭击！"
+  },
+  {
+   "key": "After stopping the Matsuri attack, our heroes enjoy the fireworks!",
+   "value": "阻止了祭典袭击之后，英雄们欣赏起了烟花！"
+  },
+  {
+   "key": "But another signal interrupts them before long!",
+   "value": "但没过多久，又一个信号打断了他们！"
+  },
+  {
+   "key": "They set off across the sea to protect hololive once more!",
+   "value": "他们再次渡海出发，保护 hololive！"
+  },
+  {
+   "key": "With our heroes' expert maintenance, Roboco returns to normal.",
+   "value": "在英雄们专业的维护下，Roboco 恢复了正常。"
+  },
+  {
+   "key": "It turns out she had been hacked by the enemy!",
+   "value": "原来她一直被敌人黑客入侵了！"
+  },
+  {
+   "key": "Using her hi-spec systems, she discovers the source of the robots!",
+   "value": "利用她的高性能系统，她找到了机器人的源头！"
+  },
+  {
+   "key": "Our heroes set off to end the problem once and for all!",
+   "value": "英雄们出发了，要彻底终结这一切！"
+  },
+  {
+   "key": "I think... in the end...",
+   "value": "我想……到头来……"
+  },
+  {
+   "key": "\"Maybe all I wanted.. was to be part of hololive\"",
+   "value": "“也许我想要的……只是成为 hololive 的一员”"
+  },
+  {
+   "key": "\"...\"",
+   "value": "“……"
+  },
+  {
+   "key": "There could be a way we can let you do that!",
+   "value": "也许有办法让你实现这个愿望！"
+  },
+  {
+   "key": "You just have to promise not to try and destroy us all, okay?",
+   "value": "只要你保证不再试图毁灭我们，好吗？"
+  },
+  {
+   "key": "\"...okay.\"",
+   "value": "“……好。”"
+  },
+  {
+   "key": "Great!!",
+   "value": "太好了！！"
+  },
+  {
+   "key": "So the new year countdown live is coming soon....",
+   "value": "所以说，新年倒计时直播马上就要开始了……"
+  },
+  {
+   "key": "NOOOOOO!!! ",
+   "value": "不要啊啊啊啊啊！！！"
+  },
+  {
+   "key": "MY ROBOTS! MY PLAN!! MY FACE!!!",
+   "value": "我的机器人！我的计划！！我的脸！！！"
+  },
+  {
+   "key": "YOU THINK YOU'VE DEFEATED ME...??",
+   "value": "你以为你已经打败我了吗……？？"
+  },
+  {
+   "key": "I HAVE... ONE LAST PLAN!!!",
+   "value": "我手里还留着……最后一招！！！"
+  },
+  {
+   "key": "EJECT!!!!!!!!!",
+   "value": "弹射逃逸！！！！！！！"
+  },
+  {
+   "key": "awawawawaw i bought too many TOUYS aaaaaaa",
+   "value": "啊啊啊啊啊我玩具买太多了啊啊啊啊啊"
+  },
+  {
+   "key": "hey YOU do u want some TOUYS?",
+   "value": "喂，说你呢，想要点玩具吗？"
+  },
+  {
+   "key": "cc said she cant take any more TOUYS so i gotta sell them.... sadge",
+   "value": "CC 说她再也收不下更多玩具了，所以我得把它们卖掉……好难过"
+  },
+  {
+   "key": "u'll take good care of them right?? u'll pay me monuy right??",
+   "value": "你会好好善待它们的对吧？？会给钱的吧？？"
+  },
+  {
+   "key": "GREAT i will open the shop now dumdadumdadum",
+   "value": "好！那我现在就开店啦！咚咚咚咚咚"
+  },
+  {
+   "key": "welcom 2.... DA SHOEBOX!!!! *cheering* *fanfare*",
+   "value": "欢迎光临……鞋盒大甩卖！！！！*欢呼* *奏乐*"
+  },
+  {
+   "key": "please buy my touys and my other stuff or i will have 2 throw them away...",
+   "value": "求求你买点我的玩具和别的东西吧，不然我就只能把它们扔掉了……"
+  },
+  {
+   "key": "u wouldnt do that to them would u.... look at their cute faces how could u",
+   "value": "你不会忍心对吧……看看它们这么可爱的脸，你怎么下得去手"
+  },
+  {
+   "key": "i will b stuck here forever so take ur time!! i can wait",
+   "value": "我会一直被困在这里，所以你慢慢来！！我等得起"
+  },
+  {
+   "key": "welcom 2 my shop *bites u*",
+   "value": "欢迎光临我的小店*咬你一口*"
+  },
+  {
+   "key": "u can't afford that....",
+   "value": "你……买不起这个啦……"
+  },
+  {
+   "key": "u bought that one already !!!",
+   "value": "这个你已经买过了！！！"
+  },
+  {
+   "key": "yay!!!! have fun !!!",
+   "value": "好耶！！！！玩得开心！！！"
+  },
+  {
+   "key": "sqwwuirrel ",
+   "value": "松许鼠鼠 "
+  },
+  {
+   "key": "forgot my r*blox pw and when i reset it the automatic email is like \"heres ur code for ur child's r*blox account\" hey,,,,,why are they assumin everyone playin r*blox is a child..............",
+   "value": "忘了自己的 r*blox 密码，重置的时候自动邮件写着「这是您孩子的 r*blox 账号验证码」喂……为什么他们都觉得玩 r*blox 的都是小孩子啊…………"
+  },
+  {
+   "key": "when she lift my fork until im certified",
+   "value": "她叉起我的那一叉，直到我证道为止"
+  },
+  {
+   "key": "MORI CALLIOPE IN F*RTNITE?????? - medieval gigi surprised that it will take mori calliope 2 weeks to reach her home",
+   "value": "森美声出现在 F*RTNITE 里了？？？？——中世纪的琪琪很惊讶，森美声居然要花两周才能到家"
+  },
+  {
+   "key": "having the craziest naps like a little baby if only there was a beautiful mother to rouse me from my slumber",
+   "value": "像小婴儿一样睡得天昏地暗，要是有个温柔的妈妈能把我从睡梦里叫醒就好了"
+  },
+  {
+   "key": " *drops pizza on you* oh nooo better clean that up omnomnom",
+   "value": " *把披萨掉在你身上* 糟了赶紧擦干净唔姆唔姆"
+  },
+  {
+   "key": "eating gummy candy rn.........life is so beautiful.....dont take what you have for granted.....",
+   "value": "正在吃软糖……人生真美好……不要把你拥有的一切当成理所当然……"
+  },
+  {
+   "key": "theres too many games rn and so little time………… why are all the game updates and releases happening NOW!!!!!!!!!!!",
+   "value": "游戏太多了而时间太少了……为什么所有更新和发售都挤在现在啊！！！！！！"
+  },
+  {
+   "key": "PINEAPPLEBLE PIZA",
+   "value": "菠萝披萨"
+  },
+  {
+   "key": "GI MURINNN! I slept without an alarm today….. feels so awesome…….",
+   "value": "琪琪沐林！！！今天没定闹钟睡了个够……感觉太棒了……"
+  },
+  {
+   "key": "ive been havin this overwhelming urge 2 spend money on gacha recently but ive been working rly hard to resist it plz send me thoughts and prayers so i can keep fighting this illness",
+   "value": "最近我一直有一股强烈的抽卡冲动，但我一直在努力克制，请给我一些思念与祈祷，让我继续与这个病魔抗争"
+  },
+  {
+   "key": "ur brain is so huge and u are so smart",
+   "value": "你的脑子真大，你真聪明"
+  },
+  {
+   "key": "have u spent money on anything lately should i spend too",
+   "value": "你最近有没有花钱买什么？我是不是也该花一点"
+  },
+  {
+   "key": "me sitting here minding my own business: evil goblin in my ear: download new gacha game",
+   "value": "我坐在这里什么也没干：耳朵里的邪恶哥布林：下载新的抽卡游戏"
+  },
+  {
+   "key": "i am literally bustin my ass trying 2 marry mori calliope  . do not worry mori calliope you wont have to wait long...im on my way to being eternally bonded to you",
+   "value": "我真的是拼了老命在想办法娶森美声。别担心，森美声，你不会等太久的……我正在走向与你永恒结合的路上"
+  },
+  {
+   "key": "on all fours sniffin the ground ears and tail alert claws out the full moon directly overhead the sounds of howling in the distance to signal the pack is near awwooooooooooo awooooooo",
+   "value": "四肢着地嗅着地面，耳朵和尾巴警觉地竖起，爪子外露，满月正当头，远处的嚎叫声在示意狼群已近——嗷呜——嗷呜——"
+  },
+  {
+   "key": "the fat evil fly looking at your food:",
+   "value": "那只肥恶的苍蝇正盯着你的食物："
+  },
+  {
+   "key": "u should be afraid of me",
+   "value": "你应该害怕我"
+  },
+  {
+   "key": "every time i sit at my computer i zone out and time moves by so fast i think i should lay down more often so i get tired 10x faster but today is not the day",
+   "value": "每次我一坐到电脑前就走神，时间过得飞快，我想我应该多躺一躺，这样累得快十倍，但今天不是那天"
+  },
+  {
+   "key": "i slept 13 hour today...  i can do better (sleep longer)",
+   "value": "今天睡了 13 个小时……我还有进步空间（睡更久）"
+  },
+  {
+   "key": "*standing at ur door* i frew up",
+   "value": "*站在你门口* 我吐了"
+  },
+  {
+   "key": "*in the corner of ur room couhging up a hairball*",
+   "value": "*在你房间角落里咳出一颗毛球*"
+  },
+  {
+   "key": "silicone gel pack",
+   "value": "硅胶干燥剂"
+  },
+  {
+   "key": "lalalalala standing holding my lollipop haha weeeeeeeeee",
+   "value": "啦啦啦啦站着拿着我的棒棒糖哈哈——唔耶——"
+  },
+  {
+   "key": "i keep napping im just so sleepy time nap pilled a nap maxxer. a bedpilled sleepymaxxer . making the best use out of my time by 1 hour maxxing",
+   "value": "我一直打瞌睡，我就是这么困，睡觉丸吃满，床瘾发作。把时间利用到极致，每小时都要最大化利用"
+  },
+  {
+   "key": "ehe~ boat goes binted~",
+   "value": "诶嘿~ 小船变弯了~"
+  },
+  {
+   "key": "if u get enough gigi murin acrylic standees you can have them all stand in a circle like a class trial ",
+   "value": "只要你有足够的琪琪·沐林亚克力立牌，就可以让它们围成一圈，像班级审判一样"
+  },
+  {
+   "key": "(really cool one liner here) <br><br>mori calliope",
+   "value": "（这里有一句很酷的话）<br><br>森美声"
+  }
+ ]
+}

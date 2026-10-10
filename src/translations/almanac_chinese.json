@@ -1,0 +1,778 @@
+{
+ "locale": "zh",
+ "count": 193,
+ "strings": [
+  {
+   "key": "almanac.summary.1",
+   "value": "被她攻击的机器人会掉落应援"
+  },
+  {
+   "key": "almanac.description.1",
+   "value": "友人A 可以让其路线上的机器人被击毁时掉落应援。"
+  },
+  {
+   "key": "almanac.flavorText.1",
+   "value": "众所周知，没有什么粉丝比连上五天无偿班的普通社畜更会应援了。"
+  },
+  {
+   "key": "almanac.summary.101",
+   "value": "对周围小范围内的敌人造成大量伤害"
+  },
+  {
+   "key": "almanac.description.101",
+   "value": "亚绮会对身边八格范围内的机器人造成大量伤害。"
+  },
+  {
+   "key": "almanac.flavorText.101",
+   "value": "这款手办的关节经过特殊设计，髋部可以做出令人催眠的动作，能够缓解头痛、安抚心神。"
+  },
+  {
+   "key": "almanac.summary.2105",
+   "value": "射击机器人"
+  },
+  {
+   "key": "almanac.description.2105",
+   "value": "华生·阿米莉亚用她的枪射击机器人。"
+  },
+  {
+   "key": "almanac.flavorText.2105",
+   "value": "奇怪的是，在距今数百年的考古发掘现场也发现过阿米莉亚手办，而且往往穿着不同的服装、有着不同的体型。"
+  },
+  {
+   "key": "almanac.summary.205",
+   "value": "射速很快，但有机器人靠近时会躲起来"
+  },
+  {
+   "key": "almanac.description.205",
+   "value": "阿库娅一次发射两颗子弹，但机器人靠得太近时她会害羞地躲起来。"
+  },
+  {
+   "key": "almanac.flavorText.205",
+   "value": "这款手办发售当天，某位传奇电竞选手刚刚在一款著名 FPS 中完成了不可能的单排冲分。"
+  },
+  {
+   "key": "almanac.summary.2205",
+   "value": "投掷随机弹丸"
+  },
+  {
+   "key": "almanac.description.2205",
+   "value": "贝尔会投出随机选择的弹丸。"
+  },
+  {
+   "key": "almanac.flavorText.2205",
+   "value": "据说只要用力足够，这款手办的双腿碰撞时会召来雷电——但前提是你得把它倒着拿。"
+  },
+  {
+   "key": "almanac.summary.2302",
+   "value": "非常坚硬的高墙"
+  },
+  {
+   "key": "almanac.description.2302",
+   "value": "碧珠的摩艾石壳是一堵非常坚硬的墙，高到无法飞越。"
+  },
+  {
+   "key": "almanac.flavorText.2302",
+   "value": "这款手办最初是作为新奇糖果推出的，但岩石糖外壳太硬、会崩坏人类的牙齿，因此被召回下架。"
+  },
+  {
+   "key": "almanac.summary.502",
+   "value": "投掷爆炸手雷"
+  },
+  {
+   "key": "almanac.description.502",
+   "value": "狮子神的爆炸手雷会对范围内的机器人造成大量伤害。"
+  },
+  {
+   "key": "almanac.flavorText.502",
+   "value": "实验证明，拥有这款手办可以预防玩恐怖游戏时的恐惧，不过科学家们对其作用机制仍有争议。"
+  },
+  {
+   "key": "almanac.summary.2101",
+   "value": "收割小范围内的机器人"
+  },
+  {
+   "key": "almanac.description.2101",
+   "value": "森美声会收割靠得太近的机器人，瞬间消灭它们。"
+  },
+  {
+   "key": "almanac.flavorText.2101",
+   "value": "这款手办头发使用的粉色染料含有达到致命危险程度的咖啡因，请务必不要舔它。"
+  },
+  {
+   "key": "almanac.summary.2402",
+   "value": "刺击中等范围内的所有机器人"
+  },
+  {
+   "key": "almanac.description.2402",
+   "value": "塞西莉亚的穿透刺击可以伤害前方四格内的所有机器人。"
+  },
+  {
+   "key": "almanac.flavorText.2402",
+   "value": "这款高度可定制的手办有大量粉丝自制配件，从替换发型服装到由定制机械臂演奏的迷你小提琴，应有尽有。"
+  },
+  {
+   "key": "almanac.summary.602",
+   "value": "把机器人推回起点"
+  },
+  {
+   "key": "almanac.description.602",
+   "value": "克洛伊释放巨大的冲击波，把机器人推回起点。"
+  },
+  {
+   "key": "almanac.flavorText.602",
+   "value": "这款手办的特别清洁说明长达 12 页，所以大多数主人选择干脆永远不洗它。"
+  },
+  {
+   "key": "almanac.summary.401",
+   "value": "烧毁一整条线路上的机器人"
+  },
+  {
+   "key": "almanac.description.401",
+   "value": "可可会烧毁一整条线路上的所有机器人。"
+  },
+  {
+   "key": "almanac.flavorText.401",
+   "value": "据说史上第一只可可手办，在某个背上有龙的传奇男人手里。"
+  },
+  {
+   "key": "almanac.summary.2401",
+   "value": "击中机器人时产生应援"
+  },
+  {
+   "key": "almanac.description.2401",
+   "value": "伊丽莎白用剑猛击机器人，每次命中都会产生应援。"
+  },
+  {
+   "key": "almanac.flavorText.2401",
+   "value": "传闻这款手办会模仿主人朋友的声音与主人对话，操纵他们把带去 hololive 的活动和演唱会。"
+  },
+  {
+   "key": "almanac.summary.2202",
+   "value": "治疗前方 3 格内的 holodoll"
+  },
+  {
+   "key": "almanac.description.2202",
+   "value": "福纳的低语可以治疗她前方三格内的 holodoll。"
+  },
+  {
+   "key": "almanac.flavorText.2202",
+   "value": "众所周知，福纳手办的低语会让人重度上瘾；许多主人为了正常生活，时刻把它带在身边。"
+  },
+  {
+   "key": "almanac.summary.303",
+   "value": "在机器人脚下的地面点火"
+  },
+  {
+   "key": "almanac.description.303",
+   "value": "芙蕾雅向地面投掷火焰，持续伤害踩上去的机器人。"
+  },
+  {
+   "key": "almanac.flavorText.303",
+   "value": "这款手办喷出的易燃液体其实是一种墨汁，取自某种章鱼。"
+  },
+  {
+   "key": "almanac.summary.10000",
+   "value": "让 holodoll 站在水面上"
+  },
+  {
+   "key": "almanac.description.10000",
+   "value": "浮具架可以让地面型 holodoll 站在水面上。"
+  },
+  {
+   "key": "almanac.flavorText.10000",
+   "value": ""
+  },
+  {
+   "key": "almanac.summary.100",
+   "value": "为所有 holodoll 提供临时护盾"
+  },
+  {
+   "key": "almanac.description.100",
+   "value": "白上吹雪用坚韧的泡泡保护所有 holodoll。"
+  },
+  {
+   "key": "almanac.flavorText.100",
+   "value": "这款手办的包装盒之所以特别大，是因为随附 80 副可以戴在其他 holodoll 脸上的眼镜配件。"
+  },
+  {
+   "key": "almanac.summary.10001",
+   "value": ""
+  },
+  {
+   "key": "almanac.description.10001",
+   "value": ""
+  },
+  {
+   "key": "almanac.flavorText.10001",
+   "value": ""
+  },
+  {
+   "key": "almanac.summary.2403",
+   "value": "21 击击败任何机器人，也会被任何机器人在 21 击内击败"
+  },
+  {
+   "key": "almanac.description.2403",
+   "value": "琪琪能在 21 击内击败任何机器人，也会被任何机器人在 21 击内击败。"
+  },
+  {
+   "key": "almanac.flavorText.2403",
+   "value": "这款手办的制造需要来自平行世界的材料、死神提供的能量，以及一场由巫师、巨龙和 15 个孩子参与的复杂仪式。"
+  },
+  {
+   "key": "almanac.summary.2102",
+   "value": "同时射击三条线路"
+  },
+  {
+   "key": "almanac.description.2102",
+   "value": "古拉每次连发 3 发，分别射向不同的线路。"
+  },
+  {
+   "key": "almanac.flavorText.2102",
+   "value": "一项针对这款手办主人的调查得出结论：最好把它陈列在玻璃罐里。"
+  },
+  {
+   "key": "almanac.summary.2104",
+   "value": "召唤章鱼战斗并阻挡机器人"
+  },
+  {
+   "key": "almanac.description.2104",
+   "value": "一伊那尔栖召唤出章鱼莎莎，它们会尽力与机器人战斗。"
+  },
+  {
+   "key": "almanac.flavorText.2104",
+   "value": "尽管包装里附带了支架，一伊那尔栖手办通常还是被摆在地板上，主人们坚持认为它“更喜欢这样”。"
+  },
+  {
+   "key": "almanac.summary.1103",
+   "value": "召唤艾欧菲娅射击机器人"
+  },
+  {
+   "key": "almanac.description.1103",
+   "value": "伊欧菲召唤出会发射彩弹的艾欧菲娅攻击机器人。"
+  },
+  {
+   "key": "almanac.flavorText.1103",
+   "value": "警告：请勿让这款手办接触爬行动物、龙或类爬行生物。若发生怪兽袭击，请尽可能让这款手办远离怪兽。"
+  },
+  {
+   "key": "almanac.summary.701",
+   "value": "制造强力爆炸"
+  },
+  {
+   "key": "almanac.description.701",
+   "value": "音乃濑奏会引爆一个“你们这群人”，炸开她周围的区域。"
+  },
+  {
+   "key": "almanac.flavorText.701",
+   "value": "这款手办内置的语音日历功能有故障，除了大声宣告第二天是周一之外，拒绝提供任何信息。"
+  },
+  {
+   "key": "almanac.summary.403",
+   "value": "逐个抓住并捏碎机器人"
+  },
+  {
+   "key": "almanac.description.403",
+   "value": "彼方可抓住并捏碎机器人，把它们逐个清理出场。"
+  },
+  {
+   "key": "almanac.flavorText.403",
+   "value": "这款手办内置的强大音响系统要求它必须采用极其坚固的材料，这也让它拥有了著名的高握力。"
+  },
+  {
+   "key": "almanac.summary.2103",
+   "value": "战败后可以无限复活。"
+  },
+  {
+   "key": "almanac.description.2103",
+   "value": "奇咔哇用剑战斗，并在战败后不久复活。"
+  },
+  {
+   "key": "almanac.flavorText.2103",
+   "value": "这款手办在发售前多次延期，因为开发团队不断打磨并扩充其下半身的曲线。"
+  },
+  {
+   "key": "almanac.summary.1302",
+   "value": "减速所有机器人，并冲走火焰、岩浆和苏打水"
+  },
+  {
+   "key": "almanac.description.1302",
+   "value": "可波的暴雨会暂时减速所有机器人，并冲走火焰、岩浆和苏打水。"
+  },
+  {
+   "key": "almanac.flavorText.1302",
+   "value": "这款手办的目标用户是 2-6 岁的儿童，以及 20-85 岁的专业歌手。"
+  },
+  {
+   "key": "almanac.summary.254",
+   "value": "攻击前方和后方的机器人"
+  },
+  {
+   "key": "almanac.description.254",
+   "value": "戌神沁音的拳击能迅速消灭前方或后方的机器人。"
+  },
+  {
+   "key": "almanac.flavorText.254",
+   "value": "这款手办的限量版曾是一场大型“复古垃圾游戏”大赛的冠军奖品，决赛整整持续了 28 个小时。"
+  },
+  {
+   "key": "almanac.summary.2203",
+   "value": "让机器人的时间停止"
+  },
+  {
+   "key": "almanac.description.2203",
+   "value": "克洛妮让时间停止，将所有机器人冻结一段时间。"
+  },
+  {
+   "key": "almanac.flavorText.2203",
+   "value": "这些手办之间会产生奇异的磁力相互吸引，也会被镜中自己的影像吸引。"
+  },
+  {
+   "key": "almanac.summary.503",
+   "value": "减速并伤害机器人"
+  },
+  {
+   "key": "almanac.description.503",
+   "value": "拉米的冰冷酒瓶会在命中时减速机器人。"
+  },
+  {
+   "key": "almanac.flavorText.503",
+   "value": "这款手办被设计成完全食品安全且不溶于酒精，因此可以作为特别促销活动漂浮在密封清酒瓶中出售。"
+  },
+  {
+   "key": "almanac.summary.601",
+   "value": "发射伤害极高的子弹，但蓄力缓慢"
+  },
+  {
+   "key": "almanac.description.601",
+   "value": "拉普拉斯的能量球对单个目标伤害巨大，但回复很慢。"
+  },
+  {
+   "key": "almanac.flavorText.601",
+   "value": "这款手办内部的先进技术让它能侦测附近是否有比自己高的 holodoll，然后发出逼真的猪叫声。"
+  },
+  {
+   "key": "almanac.summary.404",
+   "value": "胡乱地一次发射四枚火箭"
+  },
+  {
+   "key": "almanac.description.404",
+   "value": "姬森璐娜一次齐射四枚精度不佳的爆炸章鱼烧火箭。"
+  },
+  {
+   "key": "almanac.flavorText.404",
+   "value": "火箭发射器并不在这款手办最初的设计中，它原本是替换掉体积过大的三角钢琴和摩托车后才加上的。"
+  },
+  {
+   "key": "almanac.summary.301",
+   "value": "阻挡并射击机器人，生命值越低越强"
+  },
+  {
+   "key": "almanac.description.301",
+   "value": "宝钟玛琳的大炮在生命值越低时射得越快、越猛。"
+  },
+  {
+   "key": "almanac.flavorText.301",
+   "value": "这款手办原本计划的许多配件和功能——包括震动功能——都被取消了，以免被打上成人年龄分级。"
+  },
+  {
+   "key": "almanac.summary.100000",
+   "value": "错误：非 hololive 成员"
+  },
+  {
+   "key": "almanac.description.100000",
+   "value": "错误：该手办不在 HOLODOLL 数据库中"
+  },
+  {
+   "key": "almanac.flavorText.100000",
+   "value": "这个奇怪的手办闻起来有蘑菇和书的味道。"
+  },
+  {
+   "key": "almanac.summary.103",
+   "value": "每当有子弹经过时也发射一颗子弹"
+  },
+  {
+   "key": "almanac.description.103",
+   "value": "每当有子弹经过身边时，夏日祭也会发射一颗子弹。"
+  },
+  {
+   "key": "almanac.flavorText.103",
+   "value": "这款手办的脸部经过特殊设计，嘴唇可以贴在任何其他 holodoll 的脸上。"
+  },
+  {
+   "key": "almanac.summary.1102",
+   "value": "把机器人拉到自己所在线路"
+  },
+  {
+   "key": "almanac.description.1102",
+   "value": "穆娜利用重力把附近线路的机器人拉到自己这条线上。"
+  },
+  {
+   "key": "almanac.flavorText.1102",
+   "value": "用于凸显这款手办曲线的空间扭曲技术本可以用于星际旅行，但大家认为用在这是更好的选择。"
+  },
+  {
+   "key": "almanac.summary.2204",
+   "value": "有时会召唤强力朋友参战"
+  },
+  {
+   "key": "almanac.description.2204",
+   "value": "七诗无铭会召唤人类，但有时会召唤强得多的朋友。"
+  },
+  {
+   "key": "almanac.flavorText.2204",
+   "value": "最近一项调查发现，这款手办的所有主人都永久性地改变了自己的音乐品味，转而偏爱重金属和 Emo 摇滚。"
+  },
+  {
+   "key": "almanac.summary.7",
+   "value": "阻挡机器人，被击中时产生少量应援"
+  },
+  {
+   "key": "almanac.description.7",
+   "value": "野野香阻挡机器人，每次被击中都会产生少量应援。"
+  },
+  {
+   "key": "almanac.flavorText.7",
+   "value": "每当一个普通上班族成为偶像，这款手办就会神秘地出现在他们的房间里。"
+  },
+  {
+   "key": "almanac.summary.304",
+   "value": "伤害并短暂眩晕机器人"
+  },
+  {
+   "key": "almanac.description.304",
+   "value": "诺艾尔向机器人投掷沉重的钉头锤，逐个将它们眩晕。"
+  },
+  {
+   "key": "almanac.flavorText.304",
+   "value": "一则使用这款手办的牛肉碗广告因其温柔放松的解说而爆红。"
+  },
+  {
+   "key": "almanac.summary.253",
+   "value": "阻挡机器人"
+  },
+  {
+   "key": "almanac.description.253",
+   "value": "尾丸荷会用她的饭团墙和坚韧的身体吸收伤害。"
+  },
+  {
+   "key": "almanac.flavorText.253",
+   "value": "如果用真正的饭团替换这款手办的塑料饭团配件，它会在没人注意的时候神秘消失。"
+  },
+  {
+   "key": "almanac.summary.1202",
+   "value": "提供额外应援"
+  },
+  {
+   "key": "almanac.description.1202",
+   "value": "奥莉为她的 holomem 兄弟们应援，为你提供更多应援。"
+  },
+  {
+   "key": "almanac.flavorText.1202",
+   "value": "只要附近开始播放 VTuber 直播，这款手办就会剧烈摇晃，摇得太厉害时它的四肢和脑袋甚至会脱落。"
+  },
+  {
+   "key": "almanac.summary.302",
+   "value": "用刀刃风暴覆盖整片区域"
+  },
+  {
+   "key": "almanac.description.302",
+   "value": "兔田佩克拉抛出致命的武器旋涡。"
+  },
+  {
+   "key": "almanac.flavorText.302",
+   "value": "这款手办禁止带入以下场所：赌场、村庄、博物馆、学校、银行、机场、火车站、矿井、军事基地、神社和游乐场。"
+  },
+  {
+   "key": "almanac.summary.25760",
+   "value": "错误：非 hololive 成员"
+  },
+  {
+   "key": "almanac.description.25760",
+   "value": "错误：该手办不在 HOLODOLL 数据库中"
+  },
+  {
+   "key": "almanac.flavorText.25760",
+   "value": "这个奇怪的手办闻起来有自行车机油和袜子的味道。"
+  },
+  {
+   "key": "almanac.summary.2404",
+   "value": "召唤 Chattini 拦截最接近终点的机器人"
+  },
+  {
+   "key": "almanac.description.2404",
+   "value": "拉欧拉召唤 Chattini，拦截场上最左侧的机器人。"
+  },
+  {
+   "key": "almanac.flavorText.2404",
+   "value": "在这款手办发售当天，夜空中发现了一个超大质量黑洞。它似乎正在缓慢接近地球。"
+  },
+  {
+   "key": "almanac.summary.1201",
+   "value": "逐个击退机器人"
+  },
+  {
+   "key": "almanac.description.1201",
+   "value": "蕾内用力击打单个机器人，足以把它们打退。"
+  },
+  {
+   "key": "almanac.flavorText.1201",
+   "value": "当这款手办作为某款抽卡游戏最忠实玩家的奖励送出时，该游戏的活跃玩家数飙升到了 5000%。"
+  },
+  {
+   "key": "almanac.summary.1101",
+   "value": "锁定其线路上生命值最低的机器人"
+  },
+  {
+   "key": "almanac.description.1101",
+   "value": "阿芸达·栗丝快速向其线路上生命值最低的机器人投掷坚果。"
+  },
+  {
+   "key": "almanac.flavorText.1101",
+   "value": "在这款手办发售的十一月，人们报告了 ligma 的爆发，同时还目击到了哥布林，Sawcon 出席人数达到峰值，坚果也创下丰收纪录。"
+  },
+  {
+   "key": "almanac.summary.2",
+   "value": "一次发射四发子弹"
+  },
+  {
+   "key": "almanac.description.2",
+   "value": "萝卜子一次发射四颗子弹。"
+  },
+  {
+   "key": "almanac.flavorText.2",
+   "value": "这款高性能手办的众多功能容易故障，但所有部件都可拆卸更换，维修和改装都很方便。"
+  },
+  {
+   "key": "almanac.summary.2201",
+   "value": "消灭场上的所有机器人"
+  },
+  {
+   "key": "almanac.description.2201",
+   "value": "萨娜一次性压平视野中的每一个机器人。"
+  },
+  {
+   "key": "almanac.flavorText.2201",
+   "value": "其中一款稀有的 holodoll 被搭载在太阳系外探测器送入太空，随行的还有某怪物系列的游戏卡带和几幅刺猬亲吻的画。"
+  },
+  {
+   "key": "almanac.summary.202",
+   "value": "发射链式闪电"
+  },
+  {
+   "key": "almanac.description.202",
+   "value": "紫咲诗音的魔法闪电最多可以击中 3 个不同的机器人。"
+  },
+  {
+   "key": "almanac.flavorText.202",
+   "value": "这款手办散发的蒜香会吸引鲨鱼、猫、海盗、女仆和虎鲸，并可能导致长达 2 小时的困倦。"
+  },
+  {
+   "key": "almanac.summary.0",
+   "value": "可以攻击任何线路"
+  },
+  {
+   "key": "almanac.description.0",
+   "value": "时乃空向场上最左侧的机器人投掷追踪飞镖。"
+  },
+  {
+   "key": "almanac.flavorText.0",
+   "value": "关于这款手办秘密收集粉丝和主人数据的传闻是假的；包装上写得很清楚，所以根本不算秘密。"
+  },
+  {
+   "key": "almanac.summary.201",
+   "value": "把 holodoll 移动到新位置"
+  },
+  {
+   "key": "almanac.description.201",
+   "value": "昴生会抓起一个 holodoll，把它们移动到任何你想要的地方。"
+  },
+  {
+   "key": "almanac.flavorText.201",
+   "value": "尽管早期生产出现了塑料孔洞和原工厂失火等问题，这款手办依然成为史上最成功、最受喜爱的 holodoll 之一。"
+  },
+  {
+   "key": "almanac.summary.405",
+   "value": "狙击高优先级目标"
+  },
+  {
+   "key": "almanac.description.405",
+   "value": "常暗永远直接射击其线线上最危险的目标。"
+  },
+  {
+   "key": "almanac.flavorText.405",
+   "value": "这款手办对主人有催眠般的影响，会让他们对周围的人恶作剧。不过这些恶作剧无害，而且最后往往帮到了“受害者”。"
+  },
+  {
+   "key": "almanac.summary.402",
+   "value": "沿整条线路发射激光"
+  },
+  {
+   "key": "almanac.description.402",
+   "value": "角卷绵芽发射的光束会命中其线路上的所有机器人。"
+  },
+  {
+   "key": "almanac.flavorText.402",
+   "value": "这款手办有一个音频接口；如果接上音箱并在粗糙表面上摩擦，它会播放震撼人心的摇滚乐。"
+  },
+  {
+   "key": "almanac.summary.1303",
+   "value": "一次发射两颗子弹"
+  },
+  {
+   "key": "almanac.description.1303",
+   "value": "泽塔用两把枪同时射击机器人。"
+  },
+  {
+   "key": "almanac.flavorText.1303",
+   "value": "这款手办没有猫耳，也不是猫——尽管它的猫一样的表情、呼噜声，以及捕猎并杀死小动物的习性都会让你觉得它是。"
+  },
+  {
+   "key": "almanac.toughness.Rock-Solid",
+   "value": "坚如磐石"
+  },
+  {
+   "key": "almanac.toughness.Very Tough",
+   "value": "非常坚硬"
+  },
+  {
+   "key": "almanac.toughness.Tough",
+   "value": "坚硬"
+  },
+  {
+   "key": "almanac.toughness.A Bit Tough",
+   "value": "有点硬"
+  },
+  {
+   "key": "almanac.toughness.Normal",
+   "value": "普通"
+  },
+  {
+   "key": "almanac.toughness.Squishy",
+   "value": "纸糊的"
+  },
+  {
+   "key": "almanac.toughness.N/A",
+   "value": "不适用"
+  },
+  {
+   "key": "almanac.toughness.21 Hits",
+   "value": "21 连击"
+  },
+  {
+   "key": "almanac.placementType.Airborne",
+   "value": "空中专用"
+  },
+  {
+   "key": "almanac.placementType.Amphibious",
+   "value": "空水两用"
+  },
+  {
+   "key": "almanac.placementType.Water Only",
+   "value": "仅限水面"
+  },
+  {
+   "key": "almanac.placementType.Ground only",
+   "value": "仅限地面"
+  },
+  {
+   "key": "almanac.recharge.seconds",
+   "value": "秒"
+  },
+  {
+   "key": "almanac.damage.High",
+   "value": "高"
+  },
+  {
+   "key": "almanac.damage.Low",
+   "value": "低"
+  },
+  {
+   "key": "almanac.damage.Low x2",
+   "value": "低 ×2"
+  },
+  {
+   "key": "almanac.damage.???",
+   "value": "???"
+  },
+  {
+   "key": "almanac.damage.Massive",
+   "value": "巨额"
+  },
+  {
+   "key": "almanac.damage.Medium",
+   "value": "中"
+  },
+  {
+   "key": "almanac.damage.4.77%",
+   "value": "4.77%"
+  },
+  {
+   "key": "almanac.damage.Medium x3",
+   "value": "中 ×3"
+  },
+  {
+   "key": "almanac.damage.Medium x4",
+   "value": "中 ×4"
+  },
+  {
+   "key": "almanac.damage.Low to High",
+   "value": "低到高"
+  },
+  {
+   "key": "almanac.damage.Cosmic",
+   "value": "宇宙级"
+  },
+  {
+   "key": "almanac.damage.Low/High",
+   "value": "低/高"
+  },
+  {
+   "key": "almanac.damage.High x150",
+   "value": "高 ×150"
+  },
+  {
+   "key": "almanac.damage.Tiny",
+   "value": "极小"
+  },
+  {
+   "key": "almanac.damage.Low x4",
+   "value": "低 ×4"
+  },
+  {
+   "key": "almanac.atkSpd.Fast",
+   "value": "快"
+  },
+  {
+   "key": "almanac.atkSpd.Normal",
+   "value": "普通"
+  },
+  {
+   "key": "almanac.atkSpd.Slow",
+   "value": "慢"
+  },
+  {
+   "key": "almanac.atkSpd.Single Use",
+   "value": "单次使用"
+  },
+  {
+   "key": "almanac.atkSpd.Very Slow",
+   "value": "非常慢"
+  },
+  {
+   "key": "almanac.atkSpd.A Bit Slow",
+   "value": "有点慢"
+  },
+  {
+   "key": "almanac.atkSpd.Incredibly fast",
+   "value": "极快"
+  },
+  {
+   "key": "almanac.atkSpd.Slow to Fast",
+   "value": "慢到快"
+  },
+  {
+   "key": "almanac.atkSpd.Unlimited",
+   "value": "无限"
+  }
+ ]
+}
