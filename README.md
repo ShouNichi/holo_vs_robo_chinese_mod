@@ -2,17 +2,22 @@
 为 HOLO vs ROBO 添加中文翻译的模组！
 
 # 效果
+<img src="showcase/1.jpg" width="400">
+<detail>
+<summary>
+点击查看更多
+</summary>
 <table>
   <tr>
-    <td><img src="showcase/1.png" width="400"></td>
-    <td><img src="showcase/2.png" width="400"></td>
+    <td><img src="showcase/2.jpg" width="400"></td>
+    <td><img src="showcase/3.jpg" width="400"></td>
   </tr>
   <tr>
-    <td><img src="showcase/3.png" width="400"></td>
-    <td><img src="showcase/4.png" width="400"></td>
+    <td><img src="showcase/4.jpg" width="400"></td>
+    <td><img src="showcase/5.jpg" width="400"></td>
   </tr>
 </table>
-
+</detail>
 # 使用
 1. 下载模组，并解压，得到 `HvrChinese.dll` 等文件
 1. 从 [BepInEx](https://github.com/BepInEx/BepInEx/releases) 下载 BepInEx 6
@@ -24,10 +29,8 @@
 参见 `src/README.md`
 
 # Todo
-- 修正翻译，目前是 AI one-shot 质量很差
- - 检查错译漏译
- - 人名、关卡名、专有名词二次校对
- - 图片翻译优化（天上能不能掉美工啊，我不会嵌字）
+- <del>修正文本翻译，目前是 AI one-shot 质量很差</del> Done
+- 图片翻译优化（天上能不能掉美工啊，我不会嵌字）
 - 其他优化
 
 # 致谢
