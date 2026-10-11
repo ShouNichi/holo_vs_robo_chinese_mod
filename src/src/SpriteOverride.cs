@@ -86,6 +86,7 @@ internal static class SpriteOverride
     private static bool _loaded;
     private static bool _applied;
     private static float _nextRefresh;
+    private static string _activeScene;
 
     public static void Initialise(ManualLogSource log) => _log = log;
 
@@ -130,12 +131,30 @@ internal static class SpriteOverride
         ReassertImages();
 
         // Images come and go with scenes, so keep sweeping until every one has
-        // been seen.
-        if (Time.unscaledTime < _nextRefresh)
+        // been seen. A scene change forces an immediate sweep so a freshly loaded
+        // screen does not sit on the untranslated artwork for up to two seconds.
+        if (Time.unscaledTime < _nextRefresh && _activeScene == ActiveScene)
             return;
         _nextRefresh = Time.unscaledTime + 2f;
+        _activeScene = ActiveScene;
 
         Apply();
+    }
+
+    /// <summary>Active scene name, so a scene change can force an immediate sweep.</summary>
+    private static string ActiveScene
+    {
+        get
+        {
+            try
+            {
+                return UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+            }
+            catch
+            {
+                return null;
+            }
+        }
     }
 
     /// <summary>

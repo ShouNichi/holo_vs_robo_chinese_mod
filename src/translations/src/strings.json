@@ -1,0 +1,1470 @@
+# 界面字符串。key 是游戏字符串表里的 UI 对象路径，scene 是它出现在哪个界面，
+# en/ja 是游戏自带的英文/日文，zh 是译文。
+# 行首的 # 是注释，编译时会被忽略；想给单条加说明请用 "note" 字段。
+[
+ {
+  "scene": "Cutscene",
+  "context": "cutscene",
+  "key": "Cutscene/Canvas/Text (TMP) (1)",
+  "en": "Click to continue, ESC to skip",
+  "ja": "クリックで続行（ESCでスキップ）",
+  "zh": "点击继续，ESC跳过"
+ },
+ {
+  "scene": "Dialogue",
+  "context": "dialogue",
+  "key": "Dialogue/Canvas (Environment)/Dialogue/Panel_Dialogue Right/click to continue",
+  "en": "Click to continue",
+  "ja": "クリックで続行",
+  "zh": "点击继续"
+ },
+ {
+  "scene": "Dialogue",
+  "context": "dialogue",
+  "key": "Dialogue/Canvas (Environment)/Dialogue/Panel_Dialogue/click to continue",
+  "en": "Click to continue",
+  "ja": "クリックで続行",
+  "zh": "点击继续"
+ },
+ {
+  "scene": "Dollhouse",
+  "context": "dollhouse",
+  "key": "Dollhouse/Canvas/BackButt/Text (TMP)",
+  "en": "Exit",
+  "ja": "終了",
+  "zh": "退出"
+ },
+ {
+  "scene": "Dollhouse",
+  "context": "dollhouse",
+  "key": "Dollhouse/Canvas/Change Room Menu/Text (TMP)",
+  "en": "Change Room",
+  "ja": "ルムーチェンジ",
+  "zh": "更换房间"
+ },
+ {
+  "scene": "Dollhouse",
+  "context": "dollhouse",
+  "key": "Dollhouse/Canvas/Text (TMP)",
+  "en": "Welcome to the Dollhouse!",
+  "ja": "ドールハウスへようこそ！",
+  "zh": "欢迎来到玩偶屋！"
+ },
+ {
+  "scene": "Dudes",
+  "context": "dudes",
+  "key": "Dudes/Canvas/Reset save?/Text (TMP)",
+  "en": "Erase Save File?",
+  "ja": "セーブファイルを消去しますか?",
+  "zh": "要删除存档文件吗？"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 1/label",
+  "en": "Robot Attack!!",
+  "ja": "ロボット襲来！",
+  "zh": "机器人来袭！！"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 2/label",
+  "en": "No Time To Rest",
+  "ja": "休む暇なんてない",
+  "zh": "无暇休息"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 3/label",
+  "en": "Island Hopping",
+  "ja": "島でドタバタ",
+  "zh": "跨岛大作战"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 4/label",
+  "en": "Turning the Tide",
+  "ja": "形勢逆転",
+  "zh": "扭转战局"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/Cutscene 5/label",
+  "en": "End of the Line\n",
+  "ja": "終章",
+  "zh": "终章"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/CutscenesScreen/Scroll View/Viewport/Content/End Credits/label",
+  "en": "- Ending Song -\nCheer!!!",
+  "ja": "エンディングソング\nCheer!!!",
+  "zh": "- 片尾曲 -\nCheer！！！"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/10 lanes/label",
+  "en": "Ten Lane Trouble",
+  "ja": "無限の機製",
+  "zh": "十路皆敌：机兵无尽"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Airborne Assault/label",
+  "en": "Airborne Assault",
+  "ja": "親方！空からロボットが！",
+  "zh": "老大！天上下机器人了！"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Chacha 2/label",
+  "en": "Holo Shuffle 2",
+  "ja": "ホロドールシャッフル改",
+  "zh": "holo乾坤大挪移2"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Chacha/label",
+  "en": "Holo Shuffle",
+  "ja": "ホロドール\nシャッフル",
+  "zh": "holo乾坤大挪移"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Four-Ten/label",
+  "en": "Four-Ten",
+  "ja": "よんじゅう",
+  "zh": "四·十"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Instant Solution/label",
+  "en": "Instant Destruction",
+  "ja": "芸術は爆発だ！",
+  "zh": "艺术就是爆炸！"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Payload/label",
+  "en": "Road Trip",
+  "ja": "憤怒のデス・ロード",
+  "zh": "愤怒的死亡之路"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MinigamesScreen/Scroll View/Viewport/Content/Speedrun/label",
+  "en": "Rushdown",
+  "ja": "「時は加速」する",
+  "zh": "「天 堂 制 造」"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (1)/Title",
+  "en": "Shijoushugi Ad Truck",
+  "ja": "至上主義アドトラック",
+  "zh": "至上主义广告卡车"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (11)/Originale",
+  "en": "Kureiji Ollie",
+  "ja": "クレイジー・オリー",
+  "zh": "克蕾西·奥莉"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (12)/Originale",
+  "en": "Todoroki Hajime",
+  "ja": "轟はじめ",
+  "zh": "轰一"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (13)/Originale",
+  "en": "Kureiji Ollie",
+  "ja": "クレイジー・オリー",
+  "zh": "克蕾西·奥莉"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (14)/Originale",
+  "en": "Aki Rosenthal",
+  "ja": "アキ・ローゼンタール",
+  "zh": "亚绮·罗森塔尔"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (14)/Title",
+  "en": "Shallys",
+  "ja": "シャルイース",
+  "zh": "Shallys"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (15)/Originale",
+  "en": "Shirakami Fubuki",
+  "ja": "白上フブキ",
+  "zh": "白上吹雪"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (2)/Originale",
+  "en": "Hoshimachi Suisei",
+  "ja": "星街すいせい",
+  "zh": "星街彗星"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (2)/Title",
+  "en": "BIBBIDIBA",
+  "ja": "ビビデバ",
+  "zh": "BIBBIDIBA"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (3)/Originale",
+  "en": "Ookami Mio",
+  "ja": "大神ミオ",
+  "zh": "大神澪"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (4)/Originale",
+  "en": "Robocosan",
+  "ja": "ロボ子さん",
+  "zh": "萝卜子"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (5)/Originale",
+  "en": "Robocosan",
+  "ja": "ロボ子さん",
+  "zh": "萝卜子"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (5)/Title",
+  "en": "Rirubi",
+  "ja": "リルビ",
+  "zh": "Rirubi"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (6)/Originale",
+  "en": "Holotori",
+  "ja": "ホロ鳥",
+  "zh": "Holo鸟"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton (7)/Originale",
+  "en": "Kureiji Ollie ft. RUSTAGE",
+  "ja": "クレイジー・オリー ft. RUSTAGE",
+  "zh": "克蕾西·奥莉 ft. RUSTAGE"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton/Originale",
+  "en": "HoloX",
+  "ja": "秘密結社holoX",
+  "zh": "秘密结社holoX"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Scroll View/Viewport/Content/MusicButton/Title",
+  "en": "Jouya Repaint",
+  "ja": "常夜リペイント",
+  "zh": "常夜Repaint"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Text (TMP)",
+  "en": "Track\n",
+  "ja": "サウンドトラック",
+  "zh": "曲目\n"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Text (TMP) (1)",
+  "en": "Arrange by",
+  "ja": "アレンジ",
+  "zh": "编曲"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/MusicRoomScreen/Text (TMP) (2)",
+  "en": "Original Artist",
+  "ja": "作曲者",
+  "zh": "原作者"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/blimp/label",
+  "en": "Survival: Blimp",
+  "ja": "サバイバル：飛行船",
+  "zh": "生存模式：飞艇"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/endless/label",
+  "en": "Survival: Endless",
+  "ja": "サバイバル：エンドレス",
+  "zh": "生存模式：无尽"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/holofes/label",
+  "en": "Survival: Holofes",
+  "ja": "サバイバルホ：ロフェス",
+  "zh": "生存模式：HoloFes"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Screens/SurvivalScreen/Scroll View/Viewport/Content/island/label",
+  "en": "Survival: HoloIsland",
+  "ja": "サバイバル：ホロアイランド",
+  "zh": "生存模式：Holo岛"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Tabs/AchievementsTab/Text (TMP)",
+  "en": "Achievements",
+  "ja": "実績",
+  "zh": "成就"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Tabs/CutscenesTab/Text (TMP)",
+  "en": "Cutscenes",
+  "ja": "ムービーシーン",
+  "zh": "过场动画"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Tabs/MinigamesTab/Text (TMP)",
+  "en": "Minigames",
+  "ja": "ミニゲーム",
+  "zh": "小游戏"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Tabs/MusicTab/Text (TMP)",
+  "en": "Music Room",
+  "ja": "音楽鑑賞",
+  "zh": "音乐室"
+ },
+ {
+  "scene": "Extras",
+  "context": "extras",
+  "key": "Extras/Canvas/Menu/Tabs/SurvivalTab/Text",
+  "en": "Survival\n",
+  "ja": "サバイバル",
+  "zh": "生存模式"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/Dialogue/Panel_Dialogue Right/NPCSpeech",
+  "en": "\r...",
+  "ja": "\r...",
+  "zh": "\r..."
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/Dialogue/Panel_Dialogue/NPCSpeech",
+  "en": "\rI lost my virginity....can i have yours?",
+  "ja": "倉庫整理係のアルバイト？マジで？キミってさ、大物の偉い人か何かになるんじゃなかったの… ",
+  "zh": "我失去了童贞……你的能给我吗？",
+  "note": "游戏自己的英/日字符串表在这个 key 上存的就是两句不同的话（这个 key 被所有 NPC 台词复用，表里留的是各自最后写入的值），所以 ja 不是 en 的日文原译。运行时 DialogManager 会用 dialogue.json 里的台词覆盖这个字段，本条基本不会显示。"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/GameOverScreen/GameOverPanel/ExitButton/Text (TMP)",
+  "en": "Exit",
+  "ja": "戻る",
+  "zh": "返回"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/GameOverScreen/GameOverPanel/Game Over Text",
+  "en": "THE ROBOTS BROKE THROUGH!!!",
+  "ja": "食い止められなかった!!",
+  "zh": "机器人突破了防线！！！"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/GameOverScreen/GameOverPanel/RetryButton/Text (TMP)",
+  "en": "Try Again",
+  "ja": "再挑戦",
+  "zh": "再试一次"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/MenuButton/Text (TMP)",
+  "en": "Menu\n",
+  "ja": "メニュー",
+  "zh": "菜单\n"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuButton/Text (TMP)",
+  "en": "Exit",
+  "ja": "やめる",
+  "zh": "退出"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuConfirm/BackButton/Text (TMP)",
+  "en": "Back",
+  "ja": "いいえ",
+  "zh": "返回"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuConfirm/ConfirmMenuFrame/Text (TMP)",
+  "en": "Exit to Level Select?\nProgress will NOT be saved!",
+  "ja": "レベルセレクションに戻る？\n進捗（レベル内）はセーブしないよ！",
+  "zh": "返回关卡选择？\n关卡内的进度不会被保存！"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/MainMenuConfirm/ExitButton/Text (TMP)",
+  "en": "Exit",
+  "ja": "はい\n",
+  "zh": "退出"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/ResumeButton/Text (TMP)",
+  "en": "Return to Game",
+  "ja": "ゲームに戻る",
+  "zh": "返回游戏"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryButton/Text (TMP)",
+  "en": "Retry Level",
+  "ja": "再挑戦",
+  "zh": "重玩本关"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryConfirm/BackButton/Text (TMP)",
+  "en": "Back",
+  "ja": "いいえ",
+  "zh": "返回"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryConfirm/ConfirmMenuFrame/Text (TMP)",
+  "en": "Retry Level?",
+  "ja": "再挑戦？",
+  "zh": "要重玩本关吗？"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/RetryConfirm/RetryButton/Text (TMP)",
+  "en": "Retry",
+  "ja": "はい",
+  "zh": "重试"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/Volume Controls/VolumeControl Music/Text (TMP)",
+  "en": "Music Volume",
+  "ja": "BGM音量",
+  "zh": "音乐音量"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/Volume Controls/VolumeControl SFX/Text (TMP)",
+  "en": "SFX Volume",
+  "ja": "効果音音量",
+  "zh": "音效音量"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/PauseMenu/Volume Controls/VolumeControl Voice/Text (TMP)",
+  "en": "Voice Volume",
+  "ja": "ボイス音量",
+  "zh": "语音音量"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/StartGame!!/Text (TMP)",
+  "en": "START",
+  "ja": "スタート",
+  "zh": "开始"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/StartGame!!/warning 2/Select at least 4 holodolls",
+  "en": "Select at least 4 holodolls",
+  "ja": "最低でも4人選択してください",
+  "zh": "至少选择4个Holodoll"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/StartGame!!/warning/Text (TMP)",
+  "en": "No holodolls selected",
+  "ja": "ホロドールが足りない",
+  "zh": "未选择Holodoll"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/HUD/TowerSelectPanel/Text (TMP)",
+  "en": "Choose your holodolls!",
+  "ja": "ホロドールを選べ",
+  "zh": "选择你的Holodoll！"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/Hide Battlefield Button/Text (TMP)",
+  "en": "Back to Selecting",
+  "ja": "セレクト画面へ戻る",
+  "zh": "返回选择界面"
+ },
+ {
+  "scene": "In-game HUD",
+  "context": "in-game HUD",
+  "key": "HUD Canvas/HUD Canvas/Show Battlefield Button/Text (TMP)",
+  "en": "Show Battlefield",
+  "ja": "フィールドを表示",
+  "zh": "显示战场"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/Canvas/Pregame UI/Bet Menu/Bet Encourager",
+  "en": "Place your bet!",
+  "ja": "誰に賭けるか選んでね！",
+  "zh": "下注吧！"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager",
+  "en": "Place your bet!",
+  "ja": "誰に賭けるか選んでね！",
+  "zh": "下注吧！"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 1",
+  "en": "Prize: ",
+  "ja": "賞金: ",
+  "zh": "奖金："
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 2",
+  "en": " won!! ",
+  "ja": "の優勝！",
+  "zh": " 获胜！！"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 3",
+  "en": "!! Next race in ",
+  "ja": "を獲得！",
+  "zh": "获胜！下一场比赛将在"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 4",
+  "en": " won!! You won ",
+  "ja": "の優勝！",
+  "zh": " 获胜！你赢得了"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 5",
+  "en": " won! Better luck next time... ",
+  "ja": "の優勝！次こそは…",
+  "zh": " 获胜！下次加油……"
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 6",
+  "en": "Next race in ",
+  "ja": "次のレースまで",
+  "zh": "下一场比赛："
+ },
+ {
+  "scene": "HoloRaceTests",
+  "context": "holoracetests",
+  "key": "HoloRaceTests/RaceManager 7",
+  "en": "Race starts in ",
+  "ja": "レースまで",
+  "zh": "比赛开始："
+ },
+ {
+  "scene": "Level select",
+  "context": "level select",
+  "key": "Level Select/Canvas/MarathonButton/Text (TMP)",
+  "en": "Marathon Mode",
+  "ja": "マラソンモード",
+  "zh": "马拉松模式"
+ },
+ {
+  "scene": "Level select",
+  "context": "level select",
+  "key": "Level Select/Canvas/Text (TMP)",
+  "en": "Click and Drag to move map",
+  "ja": "クリックしてドラッグすると地図が移動します",
+  "zh": "点击并拖动以移动地图"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Achievement Canvas/We can achieve/titall",
+  "en": "ACHIEVEMENT GET!",
+  "ja": "実績ゲット",
+  "zh": "获得成就！"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/AchievementWindow/Background/Text (TMP)",
+  "en": "ACHIEVEMENTS",
+  "ja": "実績",
+  "zh": "成就"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/CreditsWindow/Back/Text (TMP)",
+  "en": "BACK",
+  "ja": "戻る",
+  "zh": "返回"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/CreditsWindow/Text (TMP)",
+  "en": "MUSIC\n\tTian Nya\n\tMouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker\n\nVOICES\n\tホロライブ\n\nVOICE CLIPPING HELP\n\tROKA",
+  "ja": "BGM\n\tTian Nya\n\tMouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker\n\nボイス\n\tホロメンバー\n\nボイス切り抜き\n\tROKA",
+  "zh": "音乐\n\tTian Nya\n\tMouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker\n\n语音\n\tHololive\n\n语音剪辑协助\n\tROKA\n\n中文翻译\n\tIchishou"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/CreditsWindow/Text (TMP) (1)",
+  "en": "ART/CODING/STORY\n\tPompmaker1\n\nJP TRANSLATION\n\tKumayou\n\tROKA\n\nMISC ART\n\tいらすとや",
+  "ja": "ｲﾗｽﾄ/ﾌﾟﾛｸﾞﾗﾐﾝｸﾞ/ｼﾅﾘｵ\n\tPompmaker1\n\n日本語翻訳\n\tKumayou\n\tROKA\n\nMISC ｲﾗｽﾄ\n\tいらすとや",
+  "zh": "美术/程序/剧情\n\tPompmaker1\n\n日文翻译\n\tKumayou\n\tROKA\n\n其他美术\n\tいらすとや"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/CreditsWindow/Text (TMP) (1) 1",
+  "en": "ART/CODING/STORY\n\tPompmaker1\n\nJP TRANSLATION\n\tROKA\n\tKumayou\n\tIzumi\n\nMISC ART\n\tirasutoya",
+  "ja": "イラスト/プログラム\n\tPompmaker1\n\n日本語翻訳\n\tROKA\n\tKumayou\n\tいずみ\n\nその他のイラスト\n\tいらすとや",
+  "zh": "美术/程序\n\tPompmaker1\n\n日文翻译\n\tROKA\n\tKumayou\n\tIzumi\n\n其他美术\n\tいらすとや"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/CreditsWindow/Text (TMP) 1",
+  "en": "MUSIC\n\ttian nya\n\tmouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker1\n\nVOICES\n\tHololive members\n\nVOICE CLIPPING HELP\n\tROKA",
+  "ja": "BGM\n\ttian nya\n\tmouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker1\n\nボイス\n\tホロライブメンバー\n\nボイス切り抜き\n\tROKA",
+  "zh": "音乐\n\ttian nya\n\tmouca\n\tAno Yatsu (Dan N)\n\tBrine\n\tPompmaker1\n\n语音\n\tHololive成员\n\n语音剪辑协助\n\tROKA\n\n中文翻译\n\tIchishou"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/FirstTime/Disclaimer",
+  "en": "Disclaimer\n\nThe depictions of hololive members in this game and the choices of which hololive members to include were made with no malicious intentions.\n\n\nNo generative AI was used in the development of this game.",
+  "ja": "免責事項\r\n\r\n本ゲームにおけるホロライブメンバーの描写、およびどのホロライブメンバーをゲームに含めるかの選択は、悪意なく行われたものです。\r\n\r\n本ゲームの開発には、生成AIは使用されていません。",
+  "zh": "免责声明\r\n\r\n本游戏中对hololive成员的描绘，以及选择将哪些hololive成员收录进游戏，均无任何恶意。\r\n\r\n本游戏的开发过程中未使用任何生成式AI。"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/SettingsWindow/Back/Text (TMP)",
+  "en": "BACK",
+  "ja": "戻る",
+  "zh": "返回"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/SettingsWindow/Manage Save File/Text (TMP)",
+  "en": "Manage Save File",
+  "ja": "セーブファイルを管理",
+  "zh": "管理存档文件"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/SettingsWindow/Volume Controls/VolumeControl Music/Text (TMP)",
+  "en": "Music Volume",
+  "ja": "BGM音量",
+  "zh": "音乐音量"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/SettingsWindow/Volume Controls/VolumeControl SFX/Text (TMP)",
+  "en": "SFX Volume",
+  "ja": "SFX音量",
+  "zh": "音效音量"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Canvas/SettingsWindow/Volume Controls/VolumeControl Voice/Text (TMP)",
+  "en": "Voice Volume",
+  "ja": "ボイス音量",
+  "zh": "语音音量"
+ },
+ {
+  "scene": "Main menu",
+  "context": "main menu",
+  "key": "Main menu/Main Manager",
+  "en": "Story Cleared!!",
+  "ja": "ストリークリア",
+  "zh": "剧情通关！！"
+ },
+ {
+  "scene": "Marathon Interlude",
+  "context": "marathon interlude",
+  "key": "Marathon Interlude/Canvas/Continue/Text (TMP)",
+  "en": "Next Level",
+  "ja": "次のレベル",
+  "zh": "下一关"
+ },
+ {
+  "scene": "Marathon Interlude",
+  "context": "marathon interlude",
+  "key": "Marathon Interlude/Canvas/Exit/Text (TMP) (1)",
+  "en": "Back",
+  "ja": "戻る",
+  "zh": "返回"
+ },
+ {
+  "scene": "Marathon Interlude",
+  "context": "marathon interlude",
+  "key": "Marathon Interlude/Canvas/Marathon Report/Completed Label",
+  "en": "COMPLETED",
+  "ja": "クリア",
+  "zh": "已完成"
+ },
+ {
+  "scene": "Marathon Interlude",
+  "context": "marathon interlude",
+  "key": "Marathon Interlude/Canvas/Marathon Report/LossesTitle",
+  "en": "HOLODOLLS LOST",
+  "ja": "失ホロドール数",
+  "zh": "失去的Holodoll数"
+ },
+ {
+  "scene": "Marathon Interlude",
+  "context": "marathon interlude",
+  "key": "Marathon Interlude/Canvas/Titular",
+  "en": "MARATHON PROGRESS",
+  "ja": "マラソン進捗",
+  "zh": "马拉松进度"
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu ",
+  "en": "Current Level: ",
+  "ja": "現在のレベル:",
+  "zh": "当前关卡："
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /AddHolodolls/Text (TMP)",
+  "en": "Add holodolls",
+  "ja": "ホロドールの補充",
+  "zh": "补充Holodoll"
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /Start Over?/Bewton (1)/Text (TMP)",
+  "en": "Go back",
+  "ja": "戻る",
+  "zh": "返回"
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /Start Over?/Bewton/Text (TMP)",
+  "en": "START OVER",
+  "ja": "最初からやり直す",
+  "zh": "从头开始"
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /Start Over?/Image/Text (TMP)",
+  "en": "Start a new Marathon?\nYou will lose all progress on the current Marathon and your holodolls will be reset to their starting amounts.\n",
+  "ja": "マラソンモードを最初から始めますか？現在の進捗は失われ、所持しているホロドールも初期段階に戻ります。",
+  "zh": "要开始新的马拉松吗？\n你将失去当前马拉松的所有进度，你的Holodoll也会重置为初始数量。\n"
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /StartOverButton/Text (TMP)",
+  "en": "Start Over",
+  "ja": "最初からやり直す",
+  "zh": "从头开始"
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /Text (TMP)",
+  "en": "HOLODOLLS REMAINING:",
+  "ja": "残りのホロドール数:",
+  "zh": "剩余Holodoll："
+ },
+ {
+  "scene": "Marathon",
+  "context": "marathon",
+  "key": "Marathon/Canvas/Marathon Menu /Tital",
+  "en": "MARATHON MODE",
+  "ja": "マラソンモード",
+  "zh": "马拉松模式"
+ },
+ {
+  "scene": "Payload1",
+  "context": "payload1",
+  "key": "Payload1/HUD Canvas/Tutorial Text (1)/Tutorial Text (1)",
+  "en": "Protect the merch shipment until it reaches the goal!!",
+  "ja": "ゴールに辿り着くまでグッズを守ろう！",
+  "zh": "保护周边，直到运输车抵达终点！！"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Buy this thing fr?/No/Text (TMP)",
+  "en": "No",
+  "ja": "いいえ",
+  "zh": "否"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Buy this thing fr?/Yes/Text (TMP)",
+  "en": "Yes!",
+  "ja": "はい",
+  "zh": "是！"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Buy this thing fr?/fr fr?",
+  "en": "Buy this thing fr?",
+  "ja": "ウェルカム、とぅー… DA SHOEBOX！！！！ (イエーイ)（パンパカパーン）",
+  "zh": "真滴要买这个吗？"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Dialogue/Panel_Dialogue/click to continue",
+  "en": "Click to continue",
+  "ja": "クリックで続行",
+  "zh": "点击继续"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/GameObject/Perma Remove Standees/Text (TMP)",
+  "en": "Permanently Remove Standees",
+  "ja": "アクスタの数をリセットする",
+  "zh": "重置立牌计数"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/GameObject/Remove Standees/Text (TMP)",
+  "en": "Hide Standees",
+  "ja": "アクスタを非表示にする",
+  "zh": "隐藏立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 1",
+  "en": "Unlocks the Bedroom for your Dollhouse!",
+  "ja": "ドールハウス用のベッドルームのロックを解除する！",
+  "zh": "为你的玩偶屋解锁卧室！"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 1 1",
+  "en": "Dollhouse Bedroom",
+  "ja": "ドールハウスベッドルーム",
+  "zh": "玩偶屋卧室"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 2",
+  "en": "Unlocks the Karaoke Room for your Dollhouse!",
+  "ja": "ドールハウス用のカラオケルームのロックを解除する！",
+  "zh": "为你的玩偶屋解锁卡拉OK室！"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 2 1",
+  "en": "Dollhouse Karaoke",
+  "ja": "ドールハウスカラオケルーム",
+  "zh": "玩偶屋卡拉OK室"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 3",
+  "en": "Unlocks the Game Room for your Dollhouse!",
+  "ja": "ドールハウス用のゲームルームのロックを解除する！",
+  "zh": "为你的玩偶屋解锁游戏室！"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Dollhouse Room 3 1",
+  "en": "Dollhouse Game Room",
+  "ja": "ドールハウスゲームルーム",
+  "zh": "玩偶屋游戏室"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/DollhouseDoll",
+  "en": "Dollhouse Doll",
+  "ja": "ドールハウスのドール",
+  "zh": "玩偶屋玩偶"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/DollhouseDoll 1",
+  "en": "Adds a new holodoll to your dollhouse!",
+  "ja": "ドールハウス用の新しいホロドールのロックを解除する！",
+  "zh": "为你的玩偶屋解锁一个新的Holodoll！"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Gigi/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Iofi/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Item Base/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Raora/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Sana/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/Subar/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (1)",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (1) 1",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (1)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (2)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (2) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (2)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (3)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (3) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (3)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (4)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (4) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (4)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (5)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (5) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (5)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (6)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (6) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (6)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (7)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (7) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (7)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (8)",
+  "en": "does nothing",
+  "ja": "何もしない",
+  "zh": "没有任何用处"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (8) 1",
+  "en": "gigi murin acrylic standee",
+  "ja": "ジジ・ムリンアクリルスタンド",
+  "zh": "琪琪·沐林亚克力立牌"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/acrylics/ggmuracryl (8)/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/bae/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Shop",
+  "context": "shop",
+  "key": "Shop/Shop Canvas/Holding Area/mumei/SOLD",
+  "en": "SOLD",
+  "ja": "売り切れ",
+  "zh": "已售罄"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Label",
+  "en": "Toughness",
+  "ja": "タフネス:",
+  "zh": "坚韧度："
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Label (1)",
+  "en": "Recharge\n",
+  "ja": "レチャージ",
+  "zh": "冷却\n"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Label (2)",
+  "en": "Attack Speed",
+  "ja": "攻撃速度:",
+  "zh": "攻击速度："
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Label (3)",
+  "en": "Damage",
+  "ja": "ダメージ量:",
+  "zh": "伤害："
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Label (4)",
+  "en": "Placement ",
+  "ja": "配置場所:",
+  "zh": "放置位置："
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Label (5)",
+  "en": "Can Attack",
+  "ja": "攻撃可能な区域:",
+  "zh": "可攻击区域："
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "key": "TowerShowcase/Canvas/Almanac Display/Name",
+  "en": "Bijou",
+  "ja": "びじょう",
+  "zh": "Bijou"
+ },
+ {
+  "scene": "Tutorial",
+  "context": "tutorial",
+  "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (1)/Tutorial Text (1)",
+  "en": "Click on a tile to place the selected holodoll!",
+  "ja": "タイルをクリックしてホロドールを設置してみよう！\n右クリックでキャンセル）",
+  "zh": "点击格子放置选中的Holodoll！\n（右键取消）"
+ },
+ {
+  "scene": "Tutorial",
+  "context": "tutorial",
+  "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (2)/Tutorial Text (2)",
+  "en": "Holodolls cost CHEER! This meter shows how much CHEER you have!",
+  "ja": "設置するにはエールが必要だよ！このゲージでどれだけエールが溜まっているか確認できるよ！",
+  "zh": "放置Holodoll需要应援值！这个计量表显示你拥有多少应援值！"
+ },
+ {
+  "scene": "Tutorial",
+  "context": "tutorial",
+  "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (3)/Tutorial Text (3)",
+  "en": "Don't let the robots get into the building! Good luck!",
+  "ja": "ロボットを建物の中に侵入させないよう頑張ってね！",
+  "zh": "别让机器人进入大楼！加油！"
+ },
+ {
+  "scene": "Tutorial",
+  "context": "tutorial",
+  "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (4)/Tutorial Text (4)",
+  "en": "Mouse over falling CHEER to collect it!",
+  "ja": "マウスをエールに向かって動かして集めよう！",
+  "zh": "把鼠标移到掉落的应援棒上即可收集应援值！"
+ },
+ {
+  "scene": "Tutorial",
+  "context": "tutorial",
+  "key": "Tutorial/HUD Canvas/HUD/Tutorial Text (5)/Tutorial Text (2)",
+  "en": "The Hammer removes placed holodolls! Press X or click on it to pick it up!",
+  "ja": "このハンマーでクリックかXを押すことで設置してあるホロドールを回収できるよ！",
+  "zh": "锤子可以移除已放置的Holodoll！按X或点击它来拿起锤子！"
+ },
+ {
+  "scene": "Tutorial",
+  "context": "tutorial",
+  "key": "Tutorial/HUD Canvas/HUD/Tutorial Text 1/Tutorial Text 1",
+  "en": "Click on a holodoll or press the number key to select it!",
+  "ja": "ホロドールをクリック、又は数字キーを押して選んでみよう！",
+  "zh": "点击Holodoll或按数字键来选择它！"
+ },
+ {
+  "scene": "Marathon tutorial",
+  "context": "marathon tutorial",
+  "key": "TutorialMarathon/HUD Canvas/HUD/1/Tutorial Text (1)",
+  "en": "Welcome to Marathon Mode! In this challenge, every holodoll counts!",
+  "ja": "マラソンモードへようこそ！ここでは、ホロドールを慎重に扱わなきゃいけない！",
+  "zh": "欢迎来到马拉松模式！在这个挑战中，每一个Holodoll都很重要！"
+ },
+ {
+  "scene": "Marathon tutorial",
+  "context": "marathon tutorial",
+  "key": "TutorialMarathon/HUD Canvas/HUD/4/Tutorial Text (1)",
+  "en": "Can you beat the entire story without running out of holodolls??",
+  "ja": "ホロドールを切らさずに最後まで辿り着けるかな？",
+  "zh": "你能在Holodoll耗尽之前通关故事模式吗？？"
+ },
+ {
+  "scene": "Marathon tutorial",
+  "context": "marathon tutorial",
+  "key": "TutorialMarathon/HUD Canvas/HUD/BuildingPanel/2/Tutorial Text 1",
+  "en": "The amount of each holodoll you can place per level is limited......",
+  "ja": "ここでは各レベルで使用できるホロドールの数に制限がかかっている。",
+  "zh": "每个关卡中可放置的每种Holodoll数量都有限制……"
+ },
+ {
+  "scene": "UnlockTower",
+  "context": "unlocktower",
+  "key": "UnlockTower/Canvas/Box/Particle System/TOWER UNLOCKED!!!!",
+  "en": "HOLODOLL FOUND",
+  "ja": "ホロドール発見",
+  "zh": "发现Holodoll"
+ },
+ {
+  "scene": "UnlockTower",
+  "context": "unlocktower",
+  "key": "UnlockTower/Canvas/Continue/Text (TMP)",
+  "en": "Next Level",
+  "ja": "次のレベル",
+  "zh": "下一关"
+ },
+ {
+  "scene": "UnlockTower",
+  "context": "unlocktower",
+  "key": "UnlockTower/Canvas/Correction/Text (TMP)",
+  "en": "View in Collection",
+  "ja": "コレクション",
+  "zh": "查看图鉴"
+ },
+ {
+  "scene": "UnlockTower",
+  "context": "unlocktower",
+  "key": "UnlockTower/Canvas/Quit/Text (TMP) (1)",
+  "en": "Main \nMenu",
+  "ja": "メイン\nメニュー",
+  "zh": "主\n菜单"
+ },
+ {
+  "scene": "UnlockTowerShop",
+  "context": "unlocktowershop",
+  "key": "UnlockTowerShop/Canvas/Box/Particle System/TOWER UNLOCKED!!!!",
+  "en": "HOLODOLL FOUND",
+  "ja": "ホロドール発見",
+  "zh": "发现Holodoll"
+ },
+ {
+  "scene": "UnlockTowerShop",
+  "context": "unlocktowershop",
+  "key": "UnlockTowerShop/Canvas/Continue/Text (TMP)",
+  "en": "Back to Shop",
+  "ja": "ショップへ",
+  "zh": "返回商店"
+ },
+ {
+  "scene": "UnlockTowerShop",
+  "context": "unlocktowershop",
+  "key": "UnlockTowerShop/Canvas/Correction/Text (TMP)",
+  "en": "View in Collection",
+  "ja": "コレクション",
+  "zh": "查看图鉴"
+ },
+ {
+  "scene": "UnlockTowerShop",
+  "context": "unlocktowershop",
+  "key": "UnlockTowerShop/Canvas/Quit/Text (TMP) (1)",
+  "en": "Main \nMenu",
+  "ja": "メイン\nメニュー",
+  "zh": "主\n菜单"
+ }
+]

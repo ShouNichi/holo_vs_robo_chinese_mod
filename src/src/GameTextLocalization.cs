@@ -49,6 +49,7 @@ internal static class GameTextLocalization
     private static bool _applied;
     private static float _nextRefresh;
     private static float _nextTextRefresh;
+    private static string _activeScene;
 
     /// <summary>English text of every asset field we rewrote, keyed by field.</summary>
     private sealed class Original
@@ -93,10 +94,12 @@ internal static class GameTextLocalization
 
         // Assets arrive with their scenes: the shop items only exist once the shop
         // is open, the collection entries once the Collection screen is. Re-scan
-        // so anything that showed up later gets translated too.
-        if (Time.unscaledTime < _nextRefresh)
+        // so anything that showed up later gets translated too; a scene change
+        // forces it immediately.
+        if (Time.unscaledTime < _nextRefresh && _activeScene == ActiveScene)
             return;
         _nextRefresh = Time.unscaledTime + 2f;
+        _activeScene = ActiveScene;
 
         Apply();
 
@@ -269,12 +272,24 @@ internal static class GameTextLocalization
     private static readonly Dictionary<TMP_Text, string> OriginalUiTexts =
         new Dictionary<TMP_Text, string>();
 
-    /// <summary>Strings the game builds with a number in them.</summary>
+    /// <summary>Strings the game builds with a number or a value in them.</summary>
     private static readonly List<KeyValuePair<Regex, string>> UiTextPatterns =
         new List<KeyValuePair<Regex, string>>
         {
             new KeyValuePair<Regex, string>(new Regex(@"^Current wave: (\d+)$"), "当前波次：$1"),
             new KeyValuePair<Regex, string>(new Regex(@"^Survived for (\d+) waves!$"), "已存活 $1 波！"),
+        };
+
+    /// <summary>
+    /// Labels the game concatenates with a value it owns: "Placement: " +
+    /// entry.placementType, "Can attack: " + entry.targetTypes. The value is
+    /// already translated, so only the prefix has to be swapped.
+    /// </summary>
+    private static readonly List<KeyValuePair<string, string>> UiTextPrefixes =
+        new List<KeyValuePair<string, string>>
+        {
+            new KeyValuePair<string, string>("Placement: ", "放置位置："),
+            new KeyValuePair<string, string>("Can attack: ", "可攻击区域："),
         };
 
     private static void ApplyUiTexts()
@@ -292,6 +307,18 @@ internal static class GameTextLocalization
                 OriginalUiTexts[text] = text.text;
             text.text = translated;
         }
+
+        if (OriginalUiTexts.Count >= 64)
+        {
+            var dead = new List<TMP_Text>();
+            foreach (var pair in OriginalUiTexts)
+            {
+                if (pair.Key == null)
+                    dead.Add(pair.Key);
+            }
+            foreach (var key in dead)
+                OriginalUiTexts.Remove(key);
+        }
     }
 
     private static string TranslateUiText(string value)
@@ -306,6 +333,12 @@ internal static class GameTextLocalization
                 return match.Result(pattern.Value);
         }
 
+        foreach (var prefix in UiTextPrefixes)
+        {
+            if (value.StartsWith(prefix.Key, StringComparison.Ordinal))
+                return prefix.Value + value.Substring(prefix.Key.Length);
+        }
+
         return null;
     }
 
@@ -317,6 +350,22 @@ internal static class GameTextLocalization
                 pair.Key.text = pair.Value;
         }
         OriginalUiTexts.Clear();
+    }
+
+    /// <summary>Active scene name, so a scene change can force an immediate sweep.</summary>
+    private static string ActiveScene
+    {
+        get
+        {
+            try
+            {
+                return UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+            }
+            catch
+            {
+                return null;
+            }
+        }
     }
 
     private static void Restore()
@@ -538,6 +587,52 @@ internal static class GameTextLocalization
 
             if (preview != null)
                 TranslateEntry(preview);
+        }
+    }
+
+    /// <summary>
+    /// Translates the tooltip strings before the game shows them. Several call
+    /// sites concatenate a hard-coded English label with a translated value —
+    /// <c>SelectorCard</c> builds "Placement: " + entry.placementType and
+    /// "Can attack: " + entry.targetTypes, and <c>UIHammer</c> passes literal
+    /// English — so the swap has to happen at the boundary rather than on the
+    /// components.
+    /// </summary>
+    [HarmonyPatch(typeof(TooltipSystem))]
+    private static class TooltipShowPatch
+    {
+        [HarmonyPrefix]
+        [HarmonyPatch(nameof(TooltipSystem.Show), new[] { typeof(string), typeof(string), typeof(string) })]
+        private static void Prefix3(ref string _name, ref string _props, ref string _summary)
+        {
+            if (!ChineseLocalization.IsActive)
+                return;
+            _name = Swap(_name);
+            _props = Swap(_props);
+            _summary = Swap(_summary);
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(nameof(TooltipSystem.Show),
+            new[] { typeof(string), typeof(string), typeof(string), typeof(string), typeof(string) })]
+        private static void Prefix5(ref string _name, ref string _props, ref string _summary,
+                                    ref string _targets, ref string _placement)
+        {
+            if (!ChineseLocalization.IsActive)
+                return;
+            _name = Swap(_name);
+            _props = Swap(_props);
+            _summary = Swap(_summary);
+            _targets = Swap(_targets);
+            _placement = Swap(_placement);
+        }
+
+        private static string Swap(string value)
+        {
+            if (string.IsNullOrEmpty(value))
+                return value;
+            var translated = TranslateUiText(value);
+            return translated ?? value;
         }
     }
 

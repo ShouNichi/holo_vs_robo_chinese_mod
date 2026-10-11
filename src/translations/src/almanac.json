@@ -1,0 +1,2371 @@
+[
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 0,
+  "field": "summary",
+  "en": "Can attack any lane",
+  "ja": "どのルートにも攻撃可能",
+  "zh": "可以攻击任何线路"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 0,
+  "field": "description",
+  "en": "Sora throws homing darts at the leftmost robot anywhere on the field.",
+  "ja": "そらはフィールド上のどこからでも、左端のロボットにホーミングダーツを投げることができる。",
+  "zh": "时乃空会向场低上最左侧的机器人投掷追踪飞镖。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 0,
+  "field": "flavorText",
+  "en": "The rumors that this holodoll secretly collects data on its fans and owners are false; it is clearly stated on the packaging and therefore not a secret.",
+  "ja": "このホロドールがファンや所有者のデータをエゴサでコッソリ収集しているという噂は誤りである。なぜならパッケージに堂々とそう明記されているからである。じゃあコッソリではない。",
+  "zh": "关于这款 holodoll 会通过‘自搜’偷偷收集粉丝和所有者数据的传闻是假的。包装上明明白白写着，所以根本不算偷偷收集。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1,
+  "field": "summary",
+  "en": "Robots in her lane drop cheer when destroyed",
+  "ja": "彼女はルート上にいるロボットを破壊するとエールをドロップさせることができる。",
+  "zh": "她所在之路上的机器人破坏会掉落应援值。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1,
+  "field": "description",
+  "en": "A-chan makes robots in her lane drop cheer when destroyed.",
+  "ja": "Aちゃんは自分のルート上のロボットを破壊すると、エールをドロップさせることができる。",
+  "zh": "友人A 可以让其路线上的机器人被击毁时掉落应援。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1,
+  "field": "flavorText",
+  "en": "It is common knowledge that no type of fan cheers harder than the average office worker recovering from 5 days of unpaid overtime.",
+  "ja": "5日間の激務から療養中の、とある一般社畜による熱狂的な応援にはどんなファンでも敵わないというのは周知の事実である。",
+  "zh": "众所周知，任何粉丝的应援都比不上那位连续高强度工作五天、正在休养的普通社畜。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2,
+  "field": "summary",
+  "en": "Fires four shots at once",
+  "ja": "一度に4発を発射する。",
+  "zh": "一次发射四发子弹"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2,
+  "field": "description",
+  "en": "Roboco fires four bullets at a time.",
+  "ja": "ロボ子さんは連射式チェーンガンで一度に4発を発射する。",
+  "zh": "萝卜子会用连发式链枪一次发射四颗子弹。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2,
+  "field": "flavorText",
+  "en": "The many functions of this high-spec doll are prone to malfunction, but all of its parts are detachable and replacable, allowing easy repairs and modifications.",
+  "ja": "このハイスペックドールの多岐にわたる機能は故障しやすい反面、パーツはすべて取り外し・交換が可能なので修理や改造も簡単にできる。",
+  "zh": "这款高性能 holodoll 的众多功能容易故障，但所有部件都可拆卸更换，维修和改装都很方便。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 7,
+  "field": "summary",
+  "en": "Blocks robots, produces a small amount of cheer when hit",
+  "ja": "ロボットをブロックし、攻撃を受けるたびにエールを少し発生させる。",
+  "zh": "阻挡机器人，被击中时产生少量应援"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 7,
+  "field": "description",
+  "en": "Nodoka blocks robots and produces a small amount of cheer each time she is hit.",
+  "ja": "\" のどかはロボットをブロックし、攻撃を受けるたびに少量のエールを発生させることができる。\"",
+  "zh": "和香能阻挡机器人，每次被击中都会产生少量应援。"
+ },
+ #TODO
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 7,
+  "field": "flavorText",
+  "en": "Whenever an ordinary office worker becomes an idol, this holodoll mysteriously appears in their room.",
+  "ja": "このホロドールは、平凡な会社員の中から最高のパフォーマーを発掘するタレントコンテストの優勝賞品である。",
+  "zh": "本款 holodoll 是“从平凡职员到顶级偶像”选秀比赛的优胜奖品"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 100,
+  "field": "summary",
+  "en": "Gives all holodolls a temporary shield",
+  "ja": "すべてのホロドールに一時的にシールドを与える。",
+  "zh": "为所有 holodoll 提供临时护盾"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 100,
+  "field": "description",
+  "en": "Fubuki protects all holodolls with a temporary tough bubble.",
+  "ja": "フブキは全てのホロドールを頑丈な泡で一時的に守ることができる。",
+  "zh": "白上吹雪会用坚韧的泡泡保护所有 holodoll。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 100,
+  "field": "flavorText",
+  "en": "This holodoll's extra large box is due to the included 80 pairs of glasses accessories meant to be placed on other holodolls. ",
+  "ja": "このホロドールの箱がメガサイズなのは、他のホロドールにコスプレさせるための付属品メガネが 80 組同封されているためである。",
+  "zh": "这款 holodoll 的包装盒之所以特别大，是因为随盒附赠 80 副可以戴在其他 holodoll 脸上的眼镜配件。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 101,
+  "field": "summary",
+  "en": "Deals heavy damage in a small area around her",
+  "ja": "彼女の周囲の狭い範囲に大ダメージを与える。",
+  "zh": "对周围小范围内的敌人造成大量伤害"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 101,
+  "field": "description",
+  "en": "Aki deals heavy damage to robots in the eight tiles around herself.",
+  "ja": "アキは自身の周囲8マスの範囲内のロボットに大きなダメージを与える。",
+  "zh": "亚绮会对身边八格范围内的机器人造成大量伤害。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 101,
+  "field": "flavorText",
+  "en": "The joints of this holodoll are designed to allow its hips to perform a hypnotic motion which can cure headaches and soothe the mind.",
+  "ja": "このホロドールの関節は催眠効果のある腰振りを可能にするもので、頭痛を治したり心を癒すよう設計されている。まだガンには効かないがそのうち効くようになる。",
+  "zh": "这款 holodoll 的关节可以做出具有催眠效果的扭腰动作，旨在缓解头痛、抚慰心灵。虽然目前还治不了癌症，但总有一天会有效的。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 103,
+  "field": "summary",
+  "en": "Fires a bullet whenever another bullet passes by",
+  "ja": "他の弾丸が通過するたびに弾丸を発射する。",
+  "zh": "每当有子弹经过时也发射一颗子弹"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 103,
+  "field": "description",
+  "en": "Matsuri fires a bullet whenever another bullet passes by her.",
+  "ja": "まつりは他のホロドールからの弾丸が自分の近くを通過するのに併せて弾丸を発射する。",
+  "zh": "每当有子弹经过身边时，夏日祭也会发射一颗子弹。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 103,
+  "field": "flavorText",
+  "en": "The face of this holodoll was designed with special lips which can stick to the face of any other holodoll.",
+  "ja": "このホロドールの顔は、他のホロドールの顔に貼り付けることができる特殊な唇で設計されている。",
+  "zh": "这款 holodoll 的脸部经过特殊设计，嘴唇可以贴在任何其他 holodoll 的脸上。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 201,
+  "field": "summary",
+  "en": "Moves holodolls to new locations",
+  "ja": "ホロドールを新しい場所に移動させる。",
+  "zh": "把 holodoll 移动到新位置"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 201,
+  "field": "description",
+  "en": "Subaru picks up a holodoll and moves them wherever you want.",
+  "ja": "スバルはホロドールを拾い上げ、好きな場所に移動させることができる。",
+  "zh": "昴会抓起一个 holodoll，把它们移动到任何你想要的地方。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 201,
+  "field": "flavorText",
+  "en": "Despite early production issues including holes in the plastic and the original factory burning down, this holodoll became one of the most successful and loved holodolls ever.",
+  "ja": "プラスチックに穴が開いたり、元の工場が焼失したりするなど、初期の製造上の問題があったにもかかわらず、このホロドールはこれまでで最も成功し、人々に愛されたホロドールのひとつとなった。",
+  "zh": "尽管早期生产出现了塑料孔洞和原工厂失火等问题，这款 holodoll 依然成为史上最成功、最受喜爱的 holodoll 之一。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 202,
+  "field": "summary",
+  "en": "Shoots chain lightning",
+  "ja": "稲妻を放つ。",
+  "zh": "放出闪电"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 202,
+  "field": "description",
+  "en": "Shion's magic lightning zaps up to 3 different robots.",
+  "ja": "シオンの魔法の稲妻が最大3体の異なるロボットを撃ち抜く。",
+  "zh": "紫咲诗音的魔法闪电最多可以击中 3 个不同的机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 202,
+  "field": "flavorText",
+  "en": "The garlic-like smell of this holodoll is known to attract sharks, cats, pirates, maids and orca, and may cause drowsiness for up to 2 hours.",
+  "ja": "このホロドールのニンニクのような匂いは、サメ、猫、海賊、メイド、シャチを魅了することが知られており、最大 2 時間の眠気を引き起こす可能性がある。",
+  "zh": "这款 holodoll 散发的蒜香会吸引鲨鱼、猫、海盗、女仆和虎鲸，并可能导致长达 2 小时的睡意。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 205,
+  "field": "summary",
+  "en": "Fires fast but hides when robots get near",
+  "ja": "素早く攻撃するが、ロボットが近づくと隠れてしまう。",
+  "zh": "射速很快，但有机器人靠近时会躲起来"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 205,
+  "field": "description",
+  "en": "Aqua shoots two bullets at a time, but gets shy and hides if robots get too close.",
+  "ja": "あくあは一度に二発の弾丸を発射するが、ロボットが近づきすぎると恥ずかしがって隠れてしまう。",
+  "zh": "阿库娅一次发射两颗子弹，但机器人靠得太近时她会害羞地躲起来。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 205,
+  "field": "flavorText",
+  "en": "This holodoll was released on the day a certain legendary esports player finished an impossible solo climb up the ranks of a famous FPS.",
+  "ja": "このホロドールは、ある伝説のeスポーツ選手が、有名なFPSのランクをソロで駆け上がるという不可能を可能にした日にリリースされた。",
+  "zh": "这款 holodoll 发售当天，某位传奇电竞选手刚刚在一款著名 FPS 中完成了不可能的单排冲分。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 253,
+  "field": "summary",
+  "en": "Blocks robots",
+  "ja": "ロボットをブロックする。",
+  "zh": "阻挡机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 253,
+  "field": "description",
+  "en": "Okayu absorbs damage with her onigiri wall and tough body.",
+  "ja": "おかゆは、おにぎりの壁とタフな身体でダメージを吸収する。",
+  "zh": "小粥会用她的饭团墙和坚韧的身体吸收伤害。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 253,
+  "field": "flavorText",
+  "en": "If a real onigiri is used to replace this holodoll's plastic onigiri accessory, it will mysteriously vanish when no one is looking.",
+  "ja": "このホロドールの付属品であるプラスチック製おにぎりを『本物のおにぎり』に差し替えると、誰も見ていない隙に忽然と消えてしまう。",
+  "zh": "如果用真正的饭团替换这款 holodoll 的塑料饭团配件，饭团会在没人注意的时候神秘消失。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 254,
+  "field": "summary",
+  "en": "Punches robots in front and behind",
+  "ja": "前と後ろのロボットにパンチを食らわせる。",
+  "zh": "攻击前方和后方的机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 254,
+  "field": "description",
+  "en": "Korone's punches quickly destroy robots in front or behind.",
+  "ja": "ころねのパンチは前方または後方にいるロボットを一瞬で破壊する。",
+  "zh": "沁音的拳击能迅速消灭前方或后方的机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 254,
+  "field": "flavorText",
+  "en": "A limited edition of this holodoll was the grand prize of a large \"retro crap game\" tournament, the final match of which lasted 28 straight hours.",
+  "ja": "このホロドールの限定版は、「レトロゲーム」トーナメントの優勝賞品として配布された。決勝戦はなんと28時間ぶっ続けで行われたらしい。",
+  "zh": "这款 holodoll 的限量版曾是一场大型“复古粪作”游戏大赛的冠军奖品，决赛整整持续了 28 个小时。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 301,
+  "field": "summary",
+  "en": "Blocks and shoots robots, stronger at low health",
+  "ja": "ロボットをブロックし、射撃する。体力が低いほどバフがかかる。",
+  "zh": "阻挡并射击机器人，生命值越低越强大"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 301,
+  "field": "description",
+  "en": "Marine's cannon fires faster and harder as her health gets lower.",
+  "ja": "マリンの大砲は、彼女の体力が低下するにつれて発射速度と威力が上昇する。",
+  "zh": "宝钟玛琳的大炮在生命值越低时射得越快、越猛。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 301,
+  "field": "flavorText",
+  "en": "Many of the planned accessories and functions for this holodoll, including the vibration feature, had to be cancelled in order to avoid being given an adult age rating.",
+  "ja": "このホロドール用に計画されていた付属品や機能の多くは、振動機能も含めて、年齢制限がかけられるのを避けるためにキャンセルせざるを得なかった。",
+  "zh": "这款 holodoll 原本计划的许多配件和功能——包括震动功能——都被取消了，以免被打上成人年龄分级。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 302,
+  "field": "summary",
+  "en": "Covers the area in a storm of blades",
+  "ja": "刃の嵐でそのエリアを覆う。",
+  "zh": "用刀刃风暴覆盖整片区域"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 302,
+  "field": "description",
+  "en": "Pekora throws out a deadly spiral of weapons.",
+  "ja": "ぺこらは死をもたらす武器の渦を放つ。",
+  "zh": "佩克拉能放出致命的武器旋涡。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 302,
+  "field": "flavorText",
+  "en": "This holodoll is banned from being brought into the following places: Casinos, villages, museums, schools, banks, airports, train stations, mineshafts, military bases, shrines and playgrounds.",
+  "ja": "このホロドールは、カジノ、村、博物館、学校、銀行、空港、駅、坑道、軍事基地、遊び場への持ち込みが禁止されている。",
+  "zh": "这款 holodoll 禁止带入以下场所：赌场、村庄、博物馆、学校、银行、机场、火车站、矿井、军事基地、神社和游乐场。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 303,
+  "field": "summary",
+  "en": "Sets fire to the ground beneath robots",
+  "ja": "ロボットの足元を焼き尽くす。",
+  "zh": "在机器人脚下的地面点火"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 303,
+  "field": "description",
+  "en": "Flare throws fire on the ground that constantly damages robots who step on it.",
+  "ja": "フレアは地面に炎を放ち、その炎を踏んだロボットに継続的にダメージを与えることができる。",
+  "zh": "芙蕾雅向地面投掷火焰，持续伤害踩上去的机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 303,
+  "field": "flavorText",
+  "en": "The flammable liquid thrown out by this holodoll is actually a kind of ink sourced from a certain species of octopus.",
+  "ja": "このホロドールが噴射する可燃性の液体は、実はあるタコの一種から採取したインクみたいなものである。",
+  "zh": "这款 holodoll 喷出的易燃液体其实是一种墨汁，取自某种章鱼。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 304,
+  "field": "summary",
+  "en": "Damages and stuns robots for a short while",
+  "ja": "ロボットにダメージを与え、短時間気絶させる。",
+  "zh": "伤害并短暂眩晕机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 304,
+  "field": "description",
+  "en": "Noel throws heavy maces at robots, stunning them one at a time.",
+  "ja": "ノエルは重いメイスをロボットに投げつけ、1体ずつ気絶させる。",
+  "zh": "诺艾尔向机器人投掷沉重的钉头锤，逐个将它们眩晕。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 304,
+  "field": "flavorText",
+  "en": "A beef bowl advertisement which used this holodoll went viral due to its gentle and relaxing narration.",
+  "ja": "このホロドールを起用した牛丼のCMは、優しく癒されるナレーションでバズった。",
+  "zh": "一则使用这款 holodoll 的牛肉碗广告因其温柔放松的解说而爆红。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 401,
+  "field": "summary",
+  "en": "Burns a whole lane of robots",
+  "ja": "一列に並んだロボット全体を焼き尽くす。",
+  "zh": "烧毁一整条线路上的机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 401,
+  "field": "description",
+  "en": "Coco burns down every robot in an entire lane.",
+  "ja": "ココはルート上にいるロボットを全て焼き払う。",
+  "zh": "可可会烧毁一整条线路上的所有机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 401,
+  "field": "flavorText",
+  "en": "It is rumored that the very first Coco holodoll ever made is in the posession of a certain legendary man with a dragon on his back. ",
+  "ja": "歴史上、最初に作られたココのホロドールは、背中に龍が描かれたある伝説の男が所有していたと噂されている。",
+  "zh": "据说史上第一只可可 holodoll ，在某个背上有龙的传奇男人手里。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 402,
+  "field": "summary",
+  "en": "Shoots a laser across her whole lane",
+  "ja": "彼女の立つルート全体にレーザーを発射する。",
+  "zh": "沿整条线路发射激光"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 402,
+  "field": "description",
+  "en": "Watame fires a beam that hits every robot in her lane.",
+  "ja": "わためはビームを発射し、自分のルート上にいる全てのロボットを撃ち抜く。",
+  "zh": "绵芽发射的光束会命中其线路上的所有机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 402,
+  "field": "flavorText",
+  "en": "This holodoll has a port for an audio jack; if connected to a speaker and rubbed against a surface, it will play electrifying rock music.",
+  "ja": "このホロドールにはオーディオジャック用のポートがあり、スピーカーに接続して表面をこすりつけると、刺激的なロックミュージックが再生される。",
+  "zh": "这款 holodoll 有一个音频接口；如果接上音箱并在粗糙表面上摩擦，它会播放震撼人心的摇滚乐。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 403,
+  "field": "summary",
+  "en": "Grabs and crushes robots one at a time",
+  "ja": "ロボットを次々と掴んで潰す。",
+  "zh": "逐个抓住并捏碎机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 403,
+  "field": "description",
+  "en": "Kanata grabs and crushes robots, taking them out of the fight one at a time.",
+  "ja": "かなたはロボットを掴み潰し、次々と戦闘不能にする。",
+  "zh": "彼方能够抓住并捏碎机器人，把它们逐个清理出场。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 403,
+  "field": "flavorText",
+  "en": "The powerful sound system within this holodoll required it to be made of extremely strong materials, giving it its famously high grip strength.",
+  "ja": "このホロドールが、モデルとなった実在人物の握力に耐えるためには、材料科学における数々の画期的な進歩が求められた。",
+  "zh": "这款 holodoll 内置的强大音响系统要求它必须采用极其坚固的材料，这也让它拥有了著名的高握力。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 404,
+  "field": "summary",
+  "en": "Wildly fires four rockets at once",
+  "ja": "一度に4発のロケットを乱射する。",
+  "zh": "胡乱地一次发射四枚火箭"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 404,
+  "field": "description",
+  "en": "Luna launches bursts of four inaccurate explosive takoyaki rockets.",
+  "ja": "ルーナは爆発するたこ焼きロケットを雑な感じに4発発射する。",
+  "zh": "璐娜一次能齐射四枚精度不佳的爆炸章鱼烧火箭。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 404,
+  "field": "flavorText",
+  "en": "The rocket launcher was not part of this holodoll's original design, but was added to replace the grand piano and motorcycle which turned out too large to include.",
+  "ja": "ロケットランチャーはこのホロドールの元々のデザインには含まれていなかったが、大きすぎて収まりきらなかったグランドピアノとバイクの代わりに追加された付属品である。",
+  "zh": "火箭筒并不在这款 holodoll 最初的设计中，而是作为附加装备加入的，用来替代那架太大、装不进去的三角钢琴和摩托车。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 405,
+  "field": "summary",
+  "en": "Snipes high-priority targets",
+  "ja": "優先度の高いターゲットを狙撃する。",
+  "zh": "狙击高优先级目标"
+ },
+ #TODO
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 405,
+  "field": "description",
+  "en": "Towa fires directly at the most dangerous target in her lane.",
+  "ja": "トワは自分のいるルート上で最も危険なターゲットを直接攻撃する。",
+  "zh": "永远可以直接射击其线线上最危险的目标。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 405,
+  "field": "flavorText",
+  "en": "This holodoll has a hypnotic effect on its owners, making them prank the people around them. However, these pranks are harmless and often end up helping their 'victims'.",
+  "ja": "このホロドールは所有者に催眠をかけて、周りの人たちにイタズラするよう仕向けてくる。しかし、そういったイタズラは無害であり、たいていの場合、なぜか最終的に「被害者」は助かってしまう。",
+  "zh": "这款 holodoll 会催眠所有者，会让他们对周围的人恶作剧。不过这些恶作剧无害，而且最后往往帮到了“受害者”。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 502,
+  "field": "summary",
+  "en": "Throws explosive grenades",
+  "ja": "爆発性グレネードを投げる。",
+  "zh": "投掷爆炸手雷"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 502,
+  "field": "description",
+  "en": "Botan's explosive grenades deal heavy damage to robots in an area.",
+  "ja": "ぼたんの爆発性グレネードは、範囲内のロボットに大ダメージを与える。",
+  "zh": "牡丹的爆炸手雷会对范围内的机器人造成大量伤害。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 502,
+  "field": "flavorText",
+  "en": "Owning this holodoll has been experimentally proven to prevent fear when playing horror video games, although scientists debate how this effect is actually produced.",
+  "ja": "ぼたんのホロドールを所有すると、ホラーゲームをプレイするときに恐怖が緩和することが実験的に証明されているが、この効果が実際にどのように発生するのかは専門家の間で諸説ある。",
+  "zh": "实验证明，拥有这款 holodoll 可以减轻玩恐怖游戏时的恐惧，不过科学家们对其作用机制仍有争议。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 503,
+  "field": "summary",
+  "en": "Slows and damages robots",
+  "ja": "ロボットを鈍らせ、ダメージを与える。",
+  "zh": "减速并伤害机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 503,
+  "field": "description",
+  "en": "Lamy's cold sake bottles slow down robots on impact.",
+  "ja": "ラミィの冷やした酒瓶は、ロボットを叩いたときに速度を低下させることができる。",
+  "zh": "菈米的冰冷酒瓶会在命中时减速机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 503,
+  "field": "flavorText",
+  "en": "This holodoll was designed to be completely food-safe and insoluble in alcohol, so it could be sold floating inside sealed sake bottles as part of a special promotion.",
+  "ja": "このホロドールは、特別キャンペーンの一環として密閉された酒瓶の中に浮かせて販売できるよう、完全な食品安全性とアルコール不溶性を備えるよう設計されている。",
+  "zh": "这款 holodoll 采用食品级材料且不溶于酒精，因此可以在特别促销活动时漂浮在密封清酒瓶中出售。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 601,
+  "field": "summary",
+  "en": "Fires very high damage shots, but charges up slowly",
+  "ja": "非常に高いダメージを与える砲撃を行うが、チャージに時間がかかる。",
+  "zh": "发射伤害极高的子弹，但蓄力缓慢"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 601,
+  "field": "description",
+  "en": "La+'s energy balls do huge damage to single targets, but recharge slowly.",
+  "ja": "ラプラスのエネルギーボールは1つのターゲットに甚大なダメージを与えるが、再チャージに時間がかかる。",
+  "zh": "拉普拉斯的能量球对单个目标伤害巨大，但回复很慢。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 601,
+  "field": "flavorText",
+  "en": "Advanced technology inside this holodoll allows it to detect the presence of taller holodolls nearby, after which it will make realistic pig noises.",
+  "ja": "このホロドールは内部の高度な技術により、近くにいる自分より背の高いホロドールの存在を検知し、リアルな豚の鳴き声を再現することができる。",
+  "zh": "这款 holodoll 内部的先进技术让它能侦测附近是否有比自己高的 holodoll，然后发出逼真的猪叫声。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 602,
+  "field": "summary",
+  "en": "Sends robots back to the start",
+  "ja": "ロボットをスタート地点に戻す。",
+  "zh": "把机器人推回起点"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 602,
+  "field": "description",
+  "en": "Chloe releases a big shockwave which pushes robots back to the start.",
+  "ja": "クロヱが放つ巨大な衝撃波はロボットをスタート地点まで吹き飛ばす。",
+  "zh": "克萝伊释放巨大的冲击波，把机器人推回起点。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 602,
+  "field": "flavorText",
+  "en": "The special cleaning instructions for this holodoll are 12 pages long, so most owners simply choose to never wash it.",
+  "ja": "このホロドールの特殊な洗浄マニュアルは 12 ページにわたるため、ほとんどの所有者は結局、洗うことをキャンセルしてしまう。",
+  "zh": "这款 holodoll 的特殊清洁说明长达 12 页，所以大多数所有者干脆选择永远不洗它。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 701,
+  "field": "summary",
+  "en": "Creates a powerful explosion",
+  "ja": "強力な爆発を引き起こす。",
+  "zh": "制造强力爆炸"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 701,
+  "field": "description",
+  "en": "Kanade blows up an Omaera, exploding an area around her.",
+  "ja": "奏はおまえらを爆破し、彼女の周囲のエリアを爆発させる。",
+  "zh": "奏会把你们(おまえら)炸飞，并引爆她周围的区域。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 701,
+  "field": "flavorText",
+  "en": "The voiced calendar feature built into this holodoll is faulty, refusing to give any information except loudly proclaiming when the next day is a Monday.",
+  "ja": "このホロドールに組み込まれている音声カレンダー機能には欠陥があり、次の日が月曜日であることを大声で宣言する以外、何の情報も提供してくれない。",
+  "zh": "这款 holodoll 内置的语音日历功能有故障，除了大声宣告第二天是周一之外，其他什么都不会说。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1101,
+  "field": "summary",
+  "en": "Targets the lowest health robot in her lane",
+  "ja": "自分のいるルート上で最も体力の低いロボットを標的とする。",
+  "zh": "锁定其线路上生命值最低的机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1101,
+  "field": "description",
+  "en": "Risu rapidly throws nuts at the robot with the lowest health in her lane.",
+  "ja": "リスは自分のルート上で体力が最も低いロボットに素早くナッツを投げつける。",
+  "zh": "栗丝能快速向其线路上生命值最低的机器人投掷坚果。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1101,
+  "field": "flavorText",
+  "en": "During the November this holodoll was released, an outbreak of ligma was reported, along with sightings of goblins, peak attendance at Sawcon, and a record harvest of nuts.",
+  "ja": "複数の所有者の報告によると、このホロドールを購入後、夜が明けると家の庭に奇妙な形の穴が見つかることがあるらしい。そこにはいつも満足げな顔をして土で汚れたこのホロドールも見つかるそうだ。",
+  "zh": "据多位所有者报告，买下这个 holodoll 后，有时天亮时会发现家里的院子里多了个形状奇怪的坑。据说，这个全息人偶也总会出现在坑边，满脸满足，浑身沾满泥土。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1102,
+  "field": "summary",
+  "en": "Pulls robots to her lane",
+  "ja": "ロボットを自分のルート上に引き寄せる。",
+  "zh": "把机器人拉到自己所在路线"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1102,
+  "field": "description",
+  "en": "Moona uses gravity to pull robots from nearby lanes into her lane.",
+  "ja": "ムーナは重力を使い、すぐ近くにあるルート上のロボットを自分のいるルートに引き寄せることができる。",
+  "zh": "暮娜利用重力把附近线路的机器人拉到自己这条线上。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1102,
+  "field": "flavorText",
+  "en": "The space-warping technology used to accentuate the curves of this holodoll could have been used for interstellar travel, but it was decided that this was a better use.",
+  "ja": "このホロドールの曲線を強調するために用いられた空間歪曲技術は、星間旅行をも可能にするものだったが、こちらの方がより良い使い道であると判断された。",
+  "zh": "用于凸显这款 holodoll 曲线的空间扭曲技术本可以用于星际旅行，但大家认为用在这是更好的选择。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1103,
+  "field": "summary",
+  "en": "Summons Ioforia that shoot robots",
+  "ja": "ロボットを撃ってくれるIoforiaを召喚する。",
+  "zh": "召唤 Ioforia 射击机器人"
+ },
+ #TODO Ioforia 艾拉妮·伊欧菲芙婷
+ #REF https://hololive.hololivepro.com/en/talents/airani-iofifteen/
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1103,
+  "field": "description",
+  "en": "Iofi summons paintball-shooting Ioforia to attack the robots.",
+  "ja": "イオフィはペイントボールを発射するIoforiaを召喚し、ロボットを攻撃させる。",
+  "zh": "伊欧菲召唤出会发射彩弹的 Ioforia 攻击机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1103,
+  "field": "flavorText",
+  "en": "WARNING: DO NOT ALLOW THIS HOLODOLL CONTACT WITH REPTILES, DRAGONS OR REPTILE-LIKE CREATURES. IN EVENT OF KAIJU ATTACK, KEEP THIS HOLODOLL AS FAR AWAY FROM KAIJU AS POSSIBLE.",
+  "ja": "警告: このホロドールを爬虫類、ドラゴン、または爬虫類のような生き物と接触させてはならない。怪獣の攻撃を受けた場合は、このホロドールをその怪獣からできるだけ遠ざけなければならない。",
+  "zh": "警告：请勿让这款 holodoll 接触爬行动物、龙或类爬行生物。若发生怪兽袭击，请尽可能让这款 holodoll 远离怪兽。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1201,
+  "field": "summary",
+  "en": "Knocks robots backwards one at a time",
+  "ja": "ロボットを1体ずつ後方に吹き飛ばす。",
+  "zh": "逐个击飞机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1201,
+  "field": "description",
+  "en": "Reine punches individual robots hard enough to knock them backwards.",
+  "ja": "レイネは1体1体ロボットを思い切りパンチして後ろへ吹き飛ばすことができる。",
+  "zh": "蕾内可以逐个用力猛击机器人，把它们打飞出去。。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1201,
+  "field": "flavorText",
+  "en": "When this holodoll was given out as a reward for the most dedicated players of a certain gacha game, its active playercount spiked to 5000%.",
+  "ja": "とあるガチャゲーで、最も熱心なプレイヤーへの報酬としてこのホロドールが配布された際、アクティブユーザー数は5000%に急増した。",
+  "zh": "当这款 holodoll 作为某款抽卡游戏最忠实的玩家的奖励送出时，该游戏的活跃玩家数暴增 5000%。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1202,
+  "field": "summary",
+  "en": "Gives extra cheer",
+  "ja": "追加のエールを与える。",
+  "zh": "提供额外应援"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1202,
+  "field": "description",
+  "en": "Ollie simps for her fellow holomems, giving you more cheer.",
+  "ja": "オリーは仲間のホロメンたちにガチ恋で、キミにさらなるエールを与えてくれる。",
+  "zh": "奥莉是其他 holo 成员的狂热真爱粉，会给你提供额外的应援值。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1202,
+  "field": "flavorText",
+  "en": "This holodoll will start shaking violently whenever vtuber livestreams are played nearby, and its limbs and head may detach if the shaking gets too intense.",
+  "ja": "このホロドールは、近くでVTuberのライブ配信が始まるといつも激しく震え始め、震えが激しくなりすぎると手足や頭がもげてしまうことすらある。",
+  "zh": "只要附近开始播放 VTuber 直播，这款 holodoll 就会剧烈摇晃，摇得太厉害时它的四肢和脑袋甚至会脱落。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1302,
+  "field": "summary",
+  "en": "Slows all robots and washes away fire, lava and soda",
+  "ja": "全てのロボットの動きを鈍らせ、炎・マグマ・ソーダを洗い流す。",
+  "zh": "减速所有机器人，并冲走火焰、岩浆和苏打水"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1302,
+  "field": "description",
+  "en": "Kobo's rainstorm slows all robots for a while and washes away fire, lava and soda.",
+  "ja": "こぼによる豪雨は一定時間すべてのロボットの動きを鈍らせ、火・マグマ・ソーダを洗い流してくれる。",
+  "zh": "可波的暴雨会暂时减速所有机器人，并冲走火焰、岩浆和苏打水。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1302,
+  "field": "flavorText",
+  "en": "This holodoll is marketed for children ages 2-6, as well as professional singers age 20-85.",
+  "ja": "このホロドールは、2～6歳の子供向けだけでなく、20～85歳のプロの歌手向けにも販売されている。",
+  "zh": "这款 holodoll 的目标用户是 2-6 岁的儿童，以及 20-85 岁的专业歌手。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1303,
+  "field": "summary",
+  "en": "Fires two bullets at once",
+  "ja": "同時に二発の弾丸を発射する。",
+  "zh": "一次发射两颗子弹"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1303,
+  "field": "description",
+  "en": "Zeta shoots robots with two guns at once.",
+  "ja": "ゼータは二丁拳銃でロボットを撃つ。",
+  "zh": "泽塔用两把枪同时射击机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 1303,
+  "field": "flavorText",
+  "en": "This holodoll does not have cat ears and is not a cat, despite what its catlike expression, purring noises, and tendency to hunt and kill small animals would make you think.",
+  "ja": "このホロドールは、猫のような表情、喉を鳴らす音、小動物を狩る性質から猫っぽいくせに、猫耳はないし、実際猫でもない。",
+  "zh": "这款 holodoll 没有猫耳，也不是猫——尽管它的猫一样的表情、呼噜声，以及捕猎并杀死小动物的习性都会让你觉得它是。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2101,
+  "field": "summary",
+  "en": "Reaps robots in a small area",
+  "ja": "狭い範囲内のロボットを刈り取る。",
+  "zh": "收割小范围内的机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2101,
+  "field": "description",
+  "en": "Mori reaps robots who get too close, instantly destroying them.",
+  "ja": "カリオペは近づきすぎたロボットを刈り取り、瞬時に破壊する。",
+  "zh": "森美声会收割靠得太近的机器人，瞬间消灭它们。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2101,
+  "field": "flavorText",
+  "en": "The pink colouring used for this holodoll's hair contains lethally dangerous levels of caffeine, and licking the holodoll is strongly advised against.",
+  "ja": "このホロドールの髪の毛に使用されているピンク色の着色料には、致死量のカフェインが含まれているため、ホロドールを舐めることは絶対にやめるべき。",
+  "zh": "这款 holodoll 头发使用的粉色染料含有达到致命危险程度的咖啡因，请务必不要舔它。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2102,
+  "field": "summary",
+  "en": "Shoots in 3 lanes",
+  "ja": "3つのルートに対して射撃する。",
+  "zh": "同时射击三条线路"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2102,
+  "field": "description",
+  "en": "Gura fires bursts of 3 shots, each in a different lane.",
+  "ja": "ぐらは3発のバーストショットを発射し、それぞれ異なるルートに対して命中する。",
+  "zh": "古拉每次连发 3 发，分别射向不同的线路。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2102,
+  "field": "flavorText",
+  "en": "A survey conducted among owners of this holodoll concluded that it is best displayed inside a glass jar.",
+  "ja": "このホロドールの所有者を対象に実施された調査では、ガラスの瓶に入れて展示するのが最適であるという結論が出た。",
+  "zh": "一项针对这款 holodoll 主人的调查得出结论：最好把它陈列在玻璃罐里。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2103,
+  "field": "summary",
+  "en": "Infinitely revives after defeat.",
+  "ja": "倒されても無限に復活する。",
+  "zh": "战败后可以无限复活。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2103,
+  "field": "description",
+  "en": "Kiara fights with her sword and revives a short while after defeat.",
+  "ja": "キアラは剣で戦い、やられてもしばらくすれば蘇る。",
+  "zh": "琪亚拉用剑战斗，并在战败后不久复活。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2103,
+  "field": "flavorText",
+  "en": "This holodoll experienced multiple delays before release as the development team continuously refined and expanded the curves of its lower body.",
+  "ja": "このホロドールは、開発チームが下半身の曲線美にこだわり改良・拡張し続けたため、発売までに何度も延期された。",
+  "zh": "这款 holodoll 在发售前多次延期，因为开发团队不断打磨并优化其下半身的曲线美。"
+ },
+ #TODO is tako 专有名词
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2104,
+  "field": "summary",
+  "en": "Summons Tako to fight and block robots",
+  "ja": "Takoを召喚しロボットと戦闘・ブロックさせる。",
+  "zh": "召唤 Tako 战斗并阻挡机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2104,
+  "field": "description",
+  "en": "Ina creates Takodachi which try their best to fight the robots.",
+  "ja": "イナはTakodachiを生み出し、彼らはロボットと戦うために全力を尽くしてくれる。",
+  "zh": "一伊那尔栖召唤出 Tako 们，它们会尽力与机器人战斗。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2104,
+  "field": "flavorText",
+  "en": "Despite the stand provided in the package, Ina holodolls are commonly displayed lying on the floor, with owners insisting the dolls \"like it better this way\".",
+  "ja": "パッケージに付属のスタンドがあるにもかかわらず、イナのホロドールは床に寝かせた状態で展示されることが多く、所有者曰く「この方が人形も気に入っている」。",
+  "zh": "尽管包装里附带了支架，一伊那尔栖的 holodoll 通常还是被摆在地板上，主人们坚持认为它“更喜欢这样”。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2105,
+  "field": "summary",
+  "en": "Shoots robots",
+  "ja": "ロボットを撃つ。",
+  "zh": "射击机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2105,
+  "field": "description",
+  "en": "Amelia shoots robots with her gun.",
+  "ja": "アメリアは銃でロボットを撃つ。",
+  "zh": "阿米莉亚·华生会用她的枪射击机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2105,
+  "field": "flavorText",
+  "en": "Bizzarely, Amelia holodolls have been found in archaelogical dig sites dating back hundreds of years, often with different outfits and body types.",
+  "ja": "不思議なことに、アメリアのホロドールは何百年も前の考古学の発掘現場で発見されており、衣装や体型が異なるものが多い。",
+  "zh": "奇怪的是，在距今数百年的考古发掘现场也发现过阿米莉亚 holodoll ，而且往往穿着不同的服装、有着不同的体型。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2201,
+  "field": "summary",
+  "en": "Destroys all robots on the field",
+  "ja": "フィールド上の全てのロボットを破壊する。",
+  "zh": "消灭场上的所有机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2201,
+  "field": "description",
+  "en": "Sana flattens every robot in sight, all at once.",
+  "ja": "佐命は視界に入る全てのロボットを一瞬で粉砕する。",
+  "zh": "佐命会一次性压平视野中的每一个机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2201,
+  "field": "flavorText",
+  "en": "One of these rare holodolls was set into space on an extrasolar probe, along with a game cartridge for a certain monster series and a few drawings of hedgehogs kissing.",
+  "ja": "このレアなホロドールのひとつが、太陽系外探査機に乗せられ、あるモンスターシリーズのゲームカートリッジと、ハリネズミがキスをしている絵とともに宇宙へ送り出された。",
+  "zh": "这款稀有 holodoll 的其中之一搭乘太阳系外探测器被送入太空，随行的还有一盘某怪兽系列游戏的卡带，以及一张刺猬接吻的图片。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2202,
+  "field": "summary",
+  "en": "Heals holodolls up to 3 spaces in front",
+  "ja": "前方3マス以内のホロドールを回復する。",
+  "zh": "治疗前方 3 格内的 holodoll"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2202,
+  "field": "description",
+  "en": "Fauna's whispers heal holodolls in the three tiles in front of her.",
+  "ja": "ファウナの囁きにより彼女の前方3マス以内のホロドールを回復することができる。",
+  "zh": "法娜的低语可以治疗她前方三格内的 holodoll。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2202,
+  "field": "flavorText",
+  "en": "The soothing whispers from Fauna holodolls are known to cause crippling addiction; many owners carry their Fauna with them at all times in order to function.",
+  "ja": "ファウナのホロドールから発せられる心地良い囁きは、深刻な依存症を引き起こすことで知られている。多くの所有者はまともに生活を送るために、常にファウナを携帯している。",
+  "zh": "众所周知，福纳 holodoll 的低语会让人重度上瘾；许多主人为了正常生活，时刻把它带在身边。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2203,
+  "field": "summary",
+  "en": "Stops time for the robots",
+  "ja": "ロボットの時間を止める。",
+  "zh": "让机器人的时间停止"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2203,
+  "field": "description",
+  "en": "Kronii stops time, freezing all robots for a while.",
+  "ja": "クロニーは時間を停止し、一定時間全てのロボットをフリーズさせる。",
+  "zh": "克洛尼让时间停止，将所有机器人冻结一段时间。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2203,
+  "field": "flavorText",
+  "en": "These holodolls exert a strange magnetic pull on each other, and are also attracted to their own image in mirrors.",
+  "ja": "クロニーのホロドール同士は互いに不思議な磁力で引きつけ合い、また鏡に映った自分の姿にも引きつけられる。",
+  "zh": "这些 holodoll 之间会产生奇异的磁力相互吸引，也会被镜中自己的影像吸引。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2204,
+  "field": "summary",
+  "en": "Sometimes summons strong friends to fight",
+  "ja": "時には強力なフレンドを召喚して戦う。",
+  "zh": "有时会召唤强力朋友参战"
+ },
+ #TODO hooman
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2204,
+  "field": "description",
+  "en": "Mumei summons Hoomans, but sometimes summons much stronger friends.",
+  "ja": "ムメイはHoomansを召喚するが、時にははるかに強力なフレンドを召喚することもある。",
+  "zh": "无铭会召唤 Hooman，但有时会召唤强得多的朋友。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2204,
+  "field": "flavorText",
+  "en": "A recent survey found that all owners of this holodoll permanently changed their taste in music to prefer heavy metal and emo rock songs.",
+  "ja": "最近の調査により、このホロドールの所有者は全員、音楽の好みが『ヘヴィメタル』や『エモ・ロック』へと恒久的に変化したことが判明している。",
+  "zh": "最近一项调查发现，这款 holodoll 的主人全都永久性地改变了自己的音乐品味，转而偏爱重金属和情绪摇滚。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2205,
+  "field": "summary",
+  "en": "Throws random projectiles",
+  "ja": "いろんな物を投げる。",
+  "zh": "扔出各种各样的东西。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2205,
+  "field": "description",
+  "en": "Bae throws out randomly chosen projectiles.",
+  "ja": "ベールズーは適当に選んだ物を投げまくる。",
+  "zh": "贝尔丝会扔出随便选的东西。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2205,
+  "field": "flavorText",
+  "en": "It is said that the thighs of this holodoll will summon thunder when clapped together with enough force, but only if it is held upside down.",
+  "ja": "このホロドールの太ももは十分な力で叩くと雷を呼び起こすと言われてるが、それはホロドールを逆さまに持った場合に限られる。",
+  "zh": "据说，只要用足够大的力拍打这个 holodoll 的大腿，就能引来雷电——不过只有把它倒过来拿时才行。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2302,
+  "field": "summary",
+  "en": "Very tough tall wall",
+  "ja": "とても頑丈な高い壁",
+  "zh": "非常坚硬的高墙"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2302,
+  "field": "description",
+  "en": "Bijou's moai shell is a very tough wall that's too tall to fly over.",
+  "ja": "ビジューのモアイの殻は、飛び越えられないほど高く、とても頑丈な壁となる。",
+  "zh": "碧珠的摩艾石壳是一堵非常坚硬的墙，高到无法飞越。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2302,
+  "field": "flavorText",
+  "en": "This holodoll was originally intended as a novelty candy item, but was recalled from shelves after the rock candy exterior proved too hard for human teeth.",
+  "ja": "このホロドールはもともと珍しいキャンディー商品として企画されたものだったが、氷砂糖のような外層が人間の歯には硬すぎたため、商品棚からリコールされる羽目になった。DANG IT!!!",
+  "zh": "这款 holodoll 最初是作为新奇糖果推出的，但岩石糖外壳太硬、会崩坏人类的牙齿，因此被召回下架。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2401,
+  "field": "summary",
+  "en": "Creates cheer when hitting robots",
+  "ja": "ロボットを攻撃することでエールを発生させる。",
+  "zh": "击中机器人时产生应援"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2401,
+  "field": "description",
+  "en": "Elizabeth whacks robots with her sword, producing cheer with each hit.",
+  "ja": "エリザベスの剣はロボットを叩くと、１ヒット毎にエールを発生させることができる。",
+  "zh": "伊丽莎白用剑猛击机器人，每次命中都会产生应援。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2401,
+  "field": "flavorText",
+  "en": "This holodoll is rumored to talk to its owners by imitating their friends' voices, manipulating them to bring it out to hololive events and concerts.",
+  "ja": "このホロドールは、所有者の友だちの声を物真似して話しかけてきたり、所有者にホロライブのイベントやコンサートに連れて行くように誘導したりすると噂されている。",
+  "zh": "传闻这款 holodoll 会模仿主人朋友的声音与主人对话，操纵他们把自己带去 hololive 的活动和演唱会。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2402,
+  "field": "summary",
+  "en": "Stabs all robots in a medium range",
+  "ja": "中距離内の全てのロボットを突く。",
+  "zh": "刺击中等范围内的所有机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2402,
+  "field": "description",
+  "en": "Cecilia's piercing stabs damage all robots up to four tiles in front.",
+  "ja": "セシリアの鋭い突きは、前方4マス以内にいる全てのロボットにダメージを与える。",
+  "zh": "塞西莉亚的穿透刺击可以伤害前方四格内的所有机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2402,
+  "field": "flavorText",
+  "en": "This highly customizable holodoll has many fanmade accesssories, ranging from hair and outfit changes to mini violins played by custom arm mechanisms.",
+  "ja": "この高度にカスタマイズ可能なホロドールには、髪型や服装の変更から、カスタムアーム機構で演奏できるミニバイオリンに至るまで、ファンが作ったアクセサリーが多数存在する。",
+  "zh": "这款高度可定制的 holodoll 有大量粉丝自制配件，从替换发型服装到由定制机械臂演奏的迷你小提琴，应有尽有。"
+ },
+ #TODO conflict
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2403,
+  "field": "summary",
+  "en": "Defeats any robot in 21 hits, is always defeated in 21 hits",
+  "ja": "21回攻撃すればどんなロボットも倒すが、9回攻撃されるとやられる。",
+  "zh": "攻击 21 次就能击倒任何机器人，但被攻击 21 次就会被击败。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2403,
+  "field": "description",
+  "en": "Gigi defeats any robot in 21 hits, and is defeated in 21 hits from any robot.",
+  "ja": "ジジはどんなロボットでも21回攻撃すれ倒せるが、どんなロボットからも9回攻撃されるとやられてしまう。",
+  "zh": "琪琪能在 21 击内击败任何机器人，也会被任何机器人在 21 击内击败。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2403,
+  "field": "flavorText",
+  "en": "The production of this holodoll required materials from parallel worlds, energy from the grim reaper, and an elaborate ritual involving wizards, dragons and 15 children.",
+  "ja": "このホロドールの製造には、パラレルワールドからの物質、死神のエネルギー、そしてさらに魔法使い・ドラゴン・15 人の子供たちが関わる複雑な儀式が必要だった。",
+  "zh": "这款 holodoll 的制造需要来自平行世界的材料、死神提供的能量，以及一场由巫师、巨龙和 15 个孩子参与的复杂仪式。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2404,
+  "field": "summary",
+  "en": "Summons Chattini to stop the robot closest to the goal",
+  "ja": "ゴールに最も近いロボットを足止めするためにChattiniを召喚する。",
+  "zh": "召唤 Chattini 拦截最接近终点的机器人"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2404,
+  "field": "description",
+  "en": "Raora summons Chattini to stop the leftmost robot anywhere on the field.",
+  "ja": "ラオーラはフィールド上のどこにいてもChattiniを召喚し、左端のロボットを足止めできる。",
+  "zh": "拉欧拉召唤 Chattini，拦截场上最左侧的机器人。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 2404,
+  "field": "flavorText",
+  "en": "On the day of this holodoll's release, a supermassive black hole was discovered in the night sky. It appears to be slowly approaching Earth.",
+  "ja": "このホロドールがリリースされた日、夜空に超大質量ブラックホールが発見された。それはゆっくりと地球に接近しているようだ。",
+  "zh": "在这款 holodoll 发售当天，夜空中发现了一个超大质量黑洞。它似乎正在缓慢接近地球。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 10000,
+  "field": "summary",
+  "en": "Lets holodolls stand on water",
+  "ja": "ホロドールを水の上に立たせてみよう。",
+  "zh": "让 holodoll 站在水面上"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 10000,
+  "field": "description",
+  "en": "The Floatie Stand lets grounded holodolls stand on water.",
+  "ja": "浮き具スタンドは、地上型のホロドールが水上に立つことを可能にする。",
+  "zh": "浮具支架可以让地面型 holodoll 站在水面上。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 25760,
+  "field": "summary",
+  "en": "ERROR: NON-HOLOLIVE MEMBER",
+  "ja": "？？？",
+  "zh": "错误：非 hololive 成员"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 25760,
+  "field": "description",
+  "en": "ERROR: THIS DOLL IS NOT IN THE HOLODOLLS DATABASE",
+  "ja": "？？？？？",
+  "zh": "错误：该 holodoll 不在 HOLODOLL 数据库中"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 25760,
+  "field": "flavorText",
+  "en": "This strange doll smells like bicycle oil and socks.",
+  "ja": "This strange doll smells like bicycle oil and socks.",
+  "zh": "这个奇怪的 holodoll 闻起来有自行车机油和袜子的味道。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 100000,
+  "field": "summary",
+  "en": "ERROR: NON-HOLOLIVE MEMBER",
+  "ja": "？？？",
+  "zh": "错误：非 hololive 成员"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 100000,
+  "field": "description",
+  "en": "ERROR: THIS DOLL IS NOT IN THE HOLODOLLS DATABASE",
+  "ja": "？？？？？",
+  "zh": "错误：该 holodoll 不在 HOLODOLL 数据库中"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "text",
+  "tower": 100000,
+  "field": "flavorText",
+  "en": "This strange doll smells like mushrooms and books.",
+  "ja": "This strange doll smells like mushrooms and books.",
+  "zh": "这个奇怪的 holodoll 闻起来有蘑菇和书的味道。"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   2403
+  ],
+  "en": "4.77%",
+  "ja": "4.77%",
+  "zh": "4.77%"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   2205
+  ],
+  "en": "???",
+  "ja": "???",
+  "zh": "???"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   2201,
+   100000
+  ],
+  "en": "Cosmic",
+  "ja": "超特大",
+  "zh": "宇宙级"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   101,
+   254,
+   405,
+   502
+  ],
+  "en": "High",
+  "ja": "大",
+  "zh": "高"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   302
+  ],
+  "en": "High x150",
+  "ja": "大X150",
+  "zh": "高 ×150"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   0,
+   103,
+   303,
+   503,
+   1101,
+   1103,
+   1201,
+   2105,
+   2402,
+   2404
+  ],
+  "en": "Low",
+  "ja": "小",
+  "zh": "低"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   301
+  ],
+  "en": "Low to High",
+  "ja": "小/大",
+  "zh": "低到高"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   205,
+   1303
+  ],
+  "en": "Low x2",
+  "ja": "小X2",
+  "zh": "低 ×2"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   2
+  ],
+  "en": "Low x4",
+  "ja": "小X4",
+  "zh": "低 ×4"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   2204
+  ],
+  "en": "Low/High",
+  "ja": "小/大",
+  "zh": "低/高"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   401,
+   403,
+   601,
+   701,
+   2101
+  ],
+  "en": "Massive",
+  "ja": "特大",
+  "zh": "巨额"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   202,
+   304,
+   402,
+   2103,
+   2104,
+   2401
+  ],
+  "en": "Medium",
+  "ja": "中",
+  "zh": "中"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   2102
+  ],
+  "en": "Medium x3",
+  "ja": "中X3",
+  "zh": "中 ×3"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   404
+  ],
+  "en": "Medium x4",
+  "ja": "中X4",
+  "zh": "中 ×4"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "damage",
+  "towers": [
+   25760
+  ],
+  "en": "Tiny",
+  "ja": "小小小",
+  "zh": "极小"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   202,
+   2102
+  ],
+  "en": "A Bit Slow",
+  "ja": "ちょっと遅い",
+  "zh": "有点慢"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   101,
+   1101,
+   2403,
+   25760
+  ],
+  "en": "Fast",
+  "ja": "速い",
+  "zh": "快"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   254
+  ],
+  "en": "Incredibly fast",
+  "ja": "とても速い",
+  "zh": "极快"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   0,
+   2,
+   205,
+   503,
+   1303,
+   2105,
+   2205,
+   2401,
+   2402
+  ],
+  "en": "Normal",
+  "ja": "普通",
+  "zh": "普通"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   100,
+   302,
+   401,
+   602,
+   701,
+   1102,
+   1302,
+   2101,
+   2201,
+   2203,
+   100000
+  ],
+  "en": "Single Use",
+  "ja": "単回使用",
+  "zh": "单次使用"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   304,
+   402,
+   404,
+   405,
+   502,
+   1201,
+   2103,
+   2404
+  ],
+  "en": "Slow",
+  "ja": "遅い",
+  "zh": "慢"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   301
+  ],
+  "en": "Slow to Fast",
+  "ja": "遅い/速い",
+  "zh": "有慢有快"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   103
+  ],
+  "en": "Unlimited",
+  "ja": "無制限",
+  "zh": "无限"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "atkSpd",
+  "towers": [
+   303,
+   403,
+   601,
+   1103,
+   2104,
+   2204
+  ],
+  "en": "Very Slow",
+  "ja": "とても遅い",
+  "zh": "非常慢"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   2403
+  ],
+  "en": "21 Hits",
+  "ja": "21連",
+  "zh": "21 连击"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   2,
+   304,
+   2101,
+   2401
+  ],
+  "en": "A Bit Tough",
+  "ja": "そこそこ硬い",
+  "zh": "有点硬"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   100,
+   201,
+   302,
+   401,
+   602,
+   701,
+   1102,
+   1302,
+   2201,
+   2203,
+   100000
+  ],
+  "en": "N/A",
+  "ja": "N/A",
+  "zh": "不适用"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   0,
+   1,
+   101,
+   103,
+   202,
+   205,
+   254,
+   303,
+   402,
+   403,
+   404,
+   405,
+   502,
+   503,
+   601,
+   1101,
+   1103,
+   1201,
+   1202,
+   1303,
+   2102,
+   2104,
+   2105,
+   2202,
+   2204,
+   2205,
+   2402,
+   2404,
+   25760
+  ],
+  "en": "Normal",
+  "ja": "普通",
+  "zh": "普通"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   2302,
+   10001
+  ],
+  "en": "Rock-Solid",
+  "ja": "ガチガチ",
+  "zh": "坚如磐石"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   10000
+  ],
+  "en": "Squishy",
+  "ja": "紙耐久",
+  "zh": "纸糊的"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   7,
+   2103
+  ],
+  "en": "Tough",
+  "ja": "硬い",
+  "zh": "坚硬"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "toughness",
+  "towers": [
+   253,
+   301
+  ],
+  "en": "Very Tough",
+  "ja": "結構硬い",
+  "zh": "非常坚硬"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   0,
+   2104,
+   2205
+  ],
+  "en": "10 seconds",
+  "ja": "10秒",
+  "zh": "10 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   602
+  ],
+  "en": "100 seconds",
+  "ja": "100秒",
+  "zh": "100 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   302
+  ],
+  "en": "111 seconds",
+  "ja": "111秒",
+  "zh": "111 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   205,
+   253,
+   303,
+   405,
+   2102
+  ],
+  "en": "12 seconds",
+  "ja": "12秒",
+  "zh": "12 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   2,
+   402,
+   601
+  ],
+  "en": "14 seconds",
+  "ja": "14秒",
+  "zh": "14 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   10001
+  ],
+  "en": "15 seconds",
+  "ja": "",
+  "zh": "15 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   7,
+   101,
+   301,
+   1103,
+   1201,
+   2204,
+   2401,
+   2403,
+   2404
+  ],
+  "en": "16 seconds",
+  "ja": "16秒",
+  "zh": "16 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   2101,
+   2302
+  ],
+  "en": "20 seconds",
+  "ja": "20秒",
+  "zh": "20 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   1102,
+   2103
+  ],
+  "en": "22 seconds",
+  "ja": "22秒",
+  "zh": "22 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   1302
+  ],
+  "en": "24 seconds",
+  "ja": "24秒",
+  "zh": "24 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   2201
+  ],
+  "en": "240 seconds",
+  "ja": "240秒",
+  "zh": "240 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   100000
+  ],
+  "en": "300 seconds",
+  "ja": "300秒",
+  "zh": "300 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   401
+  ],
+  "en": "35 seconds",
+  "ja": "35秒",
+  "zh": "35 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   201
+  ],
+  "en": "4 seconds",
+  "ja": "4秒",
+  "zh": "4 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   2203
+  ],
+  "en": "45 seconds",
+  "ja": "45秒",
+  "zh": "45 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   1101,
+   2105
+  ],
+  "en": "5 seconds",
+  "ja": "5秒",
+  "zh": "5 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   100,
+   701
+  ],
+  "en": "50 seconds",
+  "ja": "50秒",
+  "zh": "50 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   403,
+   2202,
+   2402,
+   10000
+  ],
+  "en": "6 seconds",
+  "ja": "6秒",
+  "zh": "6 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   1,
+   254,
+   1202,
+   1303
+  ],
+  "en": "7 seconds",
+  "ja": "7秒",
+  "zh": "7 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "recharge",
+  "towers": [
+   103,
+   202,
+   304,
+   404,
+   502,
+   503,
+   25760
+  ],
+  "en": "8 seconds",
+  "ja": "8秒",
+  "zh": "8 秒"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "placementType",
+  "towers": [
+   0,
+   2,
+   101,
+   201,
+   401,
+   403,
+   1201,
+   2101,
+   2103,
+   2201,
+   2204,
+   25760,
+   100000
+  ],
+  "en": "Airborne",
+  "ja": "空中専用",
+  "zh": "空中专用"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "placementType",
+  "towers": [
+   301,
+   602,
+   1302,
+   2102,
+   2104,
+   10000
+  ],
+  "en": "Amphibious",
+  "ja": "空陸両用",
+  "zh": "空水两用"
+ },
+ {
+  "scene": "Collection room",
+  "context": "collection room",
+  "kind": "value",
+  "field": "placementType",
+  "towers": [
+   1,
+   7,
+   100,
+   103,
+   202,
+   205,
+   253,
+   254,
+   302,
+   303,
+   304,
+   402,
+   404,
+   405,
+   502,
+   503,
+   601,
+   701,
+   1101,
+   1102,
+   1103,
+   1202,
+   1303,
+   2105,
+   2202,
+   2203,
+   2205,
+   2302,
+   2401,
+   2402,
+   2403,
+   2404,
+   10001
+  ],
+  "en": "Ground only",
+  "ja": "地上専用",
+  "zh": "仅限地面"
+ }
+]

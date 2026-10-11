@@ -1,0 +1,858 @@
+[
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Boss",
+  "en": "Boss",
+  "ja": "",
+  "zh": "BOSS"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Building",
+  "en": "Building",
+  "ja": "",
+  "zh": "建筑"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Flying",
+  "en": "Flying",
+  "ja": "",
+  "zh": "空中"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "GroundLevel",
+  "en": "GroundLevel",
+  "ja": "",
+  "zh": "地面"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Heavy",
+  "en": "Heavy",
+  "ja": "",
+  "zh": "重型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Melee",
+  "en": "Melee",
+  "ja": "",
+  "zh": "近战"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Ranged",
+  "en": "Ranged",
+  "ja": "",
+  "zh": "远程"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Special",
+  "en": "Special",
+  "ja": "",
+  "zh": "特殊"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "EnemyProperty",
+  "name": "Submerged",
+  "en": "Submerged",
+  "ja": "",
+  "zh": "潜行"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Achan",
+  "en": "Achan",
+  "ja": "友人A",
+  "zh": "友人A"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Aki",
+  "en": "Aki",
+  "ja": "アキ",
+  "zh": "亚绮·罗森塔尔"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Amelia",
+  "en": "Amelia",
+  "ja": "アメリア",
+  "zh": "阿米莉亚·华生"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Anya",
+  "en": "Anya",
+  "ja": "アーニャ",
+  "zh": "阿妮娅·梅尔菲莎"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Aqua",
+  "en": "Aqua",
+  "ja": "あくあ",
+  "zh": "湊阿库娅"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Ayame",
+  "en": "Ayame",
+  "ja": "あやめ",
+  "zh": "百鬼绫目"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Baelz",
+  "en": "Baelz",
+  "ja": "ベールズ",
+  "zh": "哈珂斯·贝尔丝"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Bijou",
+  "en": "Bijou",
+  "ja": "ビジュー",
+  "zh": "古石碧珠"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Botan",
+  "en": "Botan",
+  "ja": "ぼたん",
+  "zh": "狮白牡丹"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Cecilia",
+  "en": "Cecilia",
+  "ja": "セシリア",
+  "zh": "塞西莉亚·伊默格林"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Chloe",
+  "en": "Chloe",
+  "ja": "クロヱ",
+  "zh": "沙花叉克萝伊"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Choco",
+  "en": "Choco",
+  "ja": "ちょこ",
+  "zh": "癒月巧可"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Coco",
+  "en": "Coco",
+  "ja": "ココ",
+  "zh": "桐生可可"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "ERB",
+  "en": "ERB",
+  "ja": "エリザベス",
+  "zh": "伊丽莎白·露丝·布拉德弗雷姆"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Fauna",
+  "en": "Fauna",
+  "ja": "ファウナ",
+  "zh": "塞莱希·法娜"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Flare",
+  "en": "Flare",
+  "ja": "フレア",
+  "zh": "不知火芙蕾雅"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Floatie",
+  "en": "Floatie",
+  "ja": "浮き具",
+  "zh": "浮具"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Fubuki",
+  "en": "Fubuki",
+  "ja": "フブキ",
+  "zh": "白上吹雪"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Fuwawa",
+  "en": "Fuwawa",
+  "ja": "フワワ",
+  "zh": "软软·阿比斯加德"
+ },
+ #有一关抽卡的部分
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Gacha",
+  "en": "Gacha",
+  "ja": "???",
+  "zh": "???"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Gigi",
+  "en": "Gigi",
+  "ja": "ジジ",
+  "zh": "琪琪·沐林"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Gura",
+  "en": "Gura",
+  "ja": "ぐら",
+  "zh": "噶呜·古拉"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Haato",
+  "en": "Haato",
+  "ja": "はあと",
+  "zh": "赤井心"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Ina",
+  "en": "Ina",
+  "ja": "イナ",
+  "zh": "一伊那尔栖"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Iofi",
+  "en": "Iofi",
+  "ja": "イオフィ",
+  "zh": "艾拉妮·伊欧菲芙婷"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Iroha",
+  "en": "Iroha",
+  "ja": "いろは",
+  "zh": "风真伊吕波"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Irys",
+  "en": "Irys",
+  "ja": "IRyS",
+  "zh": "埃莉丝"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Kaela",
+  "en": "Kaela",
+  "ja": "カエラ",
+  "zh": "卡埃拉·科瓦尔斯基亚"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Kanade",
+  "en": "Kanade",
+  "ja": "奏",
+  "zh": "音乃濑奏"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Kanata",
+  "en": "Kanata",
+  "ja": "かなた",
+  "zh": "天音彼方"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Kiara",
+  "en": "Kiara",
+  "ja": "キアラ",
+  "zh": "小鸟游琪亚拉"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Kobo",
+  "en": "Kobo",
+  "ja": "こぼ",
+  "zh": "可波·卡娜埃露"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Korone",
+  "en": "Korone",
+  "ja": "ころね",
+  "zh": "戌神沁音"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Koyori",
+  "en": "Koyori",
+  "ja": "こより",
+  "zh": "博衣小夜璃"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Kronii",
+  "en": "Kronii",
+  "ja": "クロニー",
+  "zh": "奥罗·克洛尼"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Lamy",
+  "en": "Lamy",
+  "ja": "ラミィ",
+  "zh": "雪花菈米"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Laplus",
+  "en": "Laplus",
+  "ja": "ラプラス",
+  "zh": "拉普拉斯·暗黑"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Lui",
+  "en": "Lui",
+  "ja": "ルイ",
+  "zh": "鹰岭琉依"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Luna",
+  "en": "Luna",
+  "ja": "ルーナ",
+  "zh": "姬森璐娜"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Marine",
+  "en": "Marine",
+  "ja": "マリン",
+  "zh": "宝钟玛琳"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Martha",
+  "en": "Martha",
+  "ja": "M☆R☆S",
+  "zh": "M☆R☆S"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Matsuri",
+  "en": "Matsuri",
+  "ja": "まつり",
+  "zh": "夏色祭"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Mel",
+  "en": "Mel",
+  "ja": "メル",
+  "zh": "夜空梅露"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Miko",
+  "en": "Miko",
+  "ja": "みこ",
+  "zh": "樱巫女"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Mio",
+  "en": "Mio",
+  "ja": "ミオ",
+  "zh": "大神澪"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Mococo",
+  "en": "Mococo",
+  "ja": "モココ",
+  "zh": "茸茸·阿比斯加德"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Moona",
+  "en": "Moona",
+  "ja": "ムーナ",
+  "zh": "暮娜·惑星诺瓦"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Mori",
+  "en": "Mori",
+  "ja": "カリオペ",
+  "zh": "森美声"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Mumei",
+  "en": "Mumei",
+  "ja": "ムメイ",
+  "zh": "七诗无铭"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Nene",
+  "en": "Nene",
+  "ja": "ねね",
+  "zh": "桃铃音音"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Nerissa",
+  "en": "Nerissa",
+  "ja": "ネリッサ",
+  "zh": "纳瑞莎·雷文克罗夫特"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Nodoka",
+  "en": "Nodoka",
+  "ja": "のどか",
+  "zh": "春先和香"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Noel",
+  "en": "Noel",
+  "ja": "ノエル",
+  "zh": "白银诺艾尔"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Okayu",
+  "en": "Okayu",
+  "ja": "おかゆ",
+  "zh": "猫又小粥"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Ollie",
+  "en": "Ollie",
+  "ja": "オリー",
+  "zh": "克蕾西·奥莉"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Pekora",
+  "en": "Pekora",
+  "ja": "ぺこら",
+  "zh": "兔田佩克拉"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Polka",
+  "en": "Polka",
+  "ja": "ポルカ",
+  "zh": "尾丸波尔卡"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Pomuko",
+  "en": "Pomuko",
+  "ja": "ポム子",
+  "zh": "波姆子"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Raora",
+  "en": "Raora",
+  "ja": "ラオーラ",
+  "zh": "拉欧拉·潘特拉"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Reine",
+  "en": "Reine",
+  "ja": "レイネ",
+  "zh": "帕沃莉亚·蕾内"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Risu",
+  "en": "Risu",
+  "ja": "リス",
+  "zh": "阿芸达·栗丝"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Roboco",
+  "en": "Roboco",
+  "ja": "ロボ子さん",
+  "zh": "萝卜子"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Rushia",
+  "en": "Rushia",
+  "ja": "るしあ",
+  "zh": "润羽露西娅"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Sana",
+  "en": "Sana",
+  "ja": "佐命",
+  "zh": "九十九佐命"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Shion",
+  "en": "Shion",
+  "ja": "シオン",
+  "zh": "紫咲诗音"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Shiori",
+  "en": "Shiori",
+  "ja": "シオリ",
+  "zh": "诗织·诺薇拉"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Sora",
+  "en": "Sora",
+  "ja": "そら",
+  "zh": "时乃空"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Subaru",
+  "en": "Subaru",
+  "ja": "スバル",
+  "zh": "大空昴"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Suisei",
+  "en": "Suisei",
+  "ja": "すいせい",
+  "zh": "星街彗星"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Towa",
+  "en": "Towa",
+  "ja": "トワ",
+  "zh": "常暗永远"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Watame",
+  "en": "Watame",
+  "ja": "わため",
+  "zh": "角卷绵芽"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerName",
+  "name": "Zeta",
+  "en": "Zeta",
+  "ja": "ゼータ",
+  "zh": "维斯提亚·泽塔"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Attacker",
+  "en": "Attacker",
+  "ja": "攻撃者",
+  "zh": "攻击型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Bomb",
+  "en": "Bomb",
+  "ja": "",
+  "zh": "爆破型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Flying",
+  "en": "Flying",
+  "ja": "空中",
+  "zh": "空中"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "GroundLevel",
+  "en": "GroundLevel",
+  "ja": "地上",
+  "zh": "地面"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Instant",
+  "en": "Instant",
+  "ja": "インスタント",
+  "zh": "瞬发型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Key",
+  "en": "Key",
+  "ja": "",
+  "zh": "关键型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Mobile",
+  "en": "Mobile",
+  "ja": "",
+  "zh": "移动型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Producer",
+  "en": "Producer",
+  "ja": "プロデューサー",
+  "zh": "生产型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "SingleUse",
+  "en": "SingleUse",
+  "ja": "単回使用",
+  "zh": "单次使用"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Stall",
+  "en": "Stall",
+  "ja": "停滞",
+  "zh": "阻挡型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Summoner",
+  "en": "Summoner",
+  "ja": "召喚者",
+  "zh": "召唤型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Support",
+  "en": "Support",
+  "ja": "サポート",
+  "zh": "辅助型"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Tall",
+  "en": "Tall",
+  "ja": "高い",
+  "zh": "高地"
+ },
+ {
+  "scene": "",
+  "context": "enum name",
+  "enum": "TowerProperty",
+  "name": "Wall",
+  "en": "Wall",
+  "ja": "壁",
+  "zh": "防御型"
+ }
+]

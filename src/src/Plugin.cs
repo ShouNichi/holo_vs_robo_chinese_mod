@@ -31,5 +31,5 @@ internal static class PluginInfo
 {
     public const string Guid = "dev.holovsrobo.chineselocalization";
     public const string Name = "Holo vs Robo — Chinese Localization";
-    public const string Version = "1.2.0";
+    public const string Version = "1.3.0";
 }

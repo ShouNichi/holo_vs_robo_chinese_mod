@@ -63,7 +63,7 @@ resolve_managed() {
     done
     # Tolerate other install layouts (different parent folder name, …).
     local found
-    found="$(find "$base" -maxdepth 3 -name Assembly-CSharp.dll -printf '%h\n' 2>/dev/null | head -1)"
+    found="$(find "$base" -maxdepth 5 -name Assembly-CSharp.dll -printf "%h\n" 2>/dev/null | head -1)"
     [ -n "$found" ] && { echo "$found"; return 0; }
     return 1
 }
@@ -89,7 +89,19 @@ fi
 
 fetch() { # url destination
     echo "  -> $(basename "$2")"
-    curl -sSL --retry 3 --retry-delay 2 -f "$1" -o "$2"
+    # The BepInEx feed occasionally drops the connection mid-handshake, and a
+    # bare curl --retry does not always cover that, so try the whole download a
+    # few times before giving up.
+    local attempt
+    for attempt in 1 2 3 4 5; do
+        if curl -sSL --retry 2 --retry-delay 2 -f "$1" -o "$2"; then
+            return 0
+        fi
+        echo "     attempt $attempt failed, retrying…" >&2
+        sleep 3
+    done
+    echo "error: could not download $1" >&2
+    return 1
 }
 
 extract_ns20() { # nupkg destination-folder
